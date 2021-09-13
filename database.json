@@ -151,106 +151,74 @@
       "modifiedAt": 1616246055000
     }
   ],
+
+
+
+
   "products": [
     {
       "id": 1,
-      "name": "Pork Salted Bellies",
-      "price": 442,
-      "quantity": 16,
-      "thumbnail": "http://dummyimage.com/213x100.png/dddddd/000000",
-      "status": true,
-      "createdAt": 1610632995000,
-      "modifiedAt": 1615620960000
+      "productImage" : "https://nguyenkeo.github.io/MasterAudio/img/4-acoustic/Subwoofer-PCS-318NB.png",
+      "productBrand" : "4 Acoustic",
+      "productName": "PCS 318NB",
+      "productPrice": 65200000,
+      "productQuantity": 1
     },
     {
       "id": 2,
-      "name": "Grapes - Black",
-      "price": 893,
-      "quantity": 22,
-      "thumbnail": "http://dummyimage.com/151x100.png/ff4444/ffffff",
-      "status": false,
-      "createdAt": 1615796160000,
-      "modifiedAt": 1615796160000
+      "productImage" : "https://nguyenkeo.github.io/MasterAudio/img/nexo/nexo-ps15.png",
+      "productBrand" : "Nexo",
+      "productName": "Grapes - Black",
+      "productPrice": 893,
+      "productQuantity": 1
     },
     {
       "id": 3,
-      "name": "Nantucket - 518ml",
-      "price": 693,
-      "quantity": 41,
-      "thumbnail": "http://dummyimage.com/125x100.png/dddddd/000000",
-      "status": false,
-      "createdAt": 1614190320000,
-      "modifiedAt": 1614190320000
+      "productImage" : "https://nguyenkeo.github.io/MasterAudio/img/adamson/adamson-point15.jpg",
+      "productBrand" : "Adamson",
+      "productName": "Point 15",
+      "productPrice": 99111000,
+      "productQuantity": 1
     },
     {
       "id": 4,
-      "name": "Onions - White",
-      "price": 472,
-      "quantity": 67,
-      "thumbnail": "http://dummyimage.com/117x100.png/cc0000/ffffff",
-      "status": false,
-      "createdAt": 1609751340000,
-      "modifiedAt": 1617525900000
+      "productImage" : "https://nguyenkeo.github.io/MasterAudio/img//amate/amate-X218WF.png",
+      "productBrand" : "Amate",
+      "productName": "X218WFD",
+      "productPrice": 179697708,
+      "productQuantity": 1
     },
     {
       "id": 5,
-      "name": "Lamb - Whole, Fresh",
-      "price": 157,
-      "quantity": 83,
-      "thumbnail": "http://dummyimage.com/160x100.png/dddddd/000000",
-      "status": true,
-      "createdAt": 1620154080000,
-      "modifiedAt": 1620154080000
+      "productImage" : "https://nguyenkeo.github.io/MasterAudio/img/kuledy/kuledy-line-array-v110.png",
+      "productBrand" : "Kuledy",
+      "productName": "V110",
+      "productPrice": 35000000,
+      "productQuantity": 1
     },
     {
       "id": 6,
-      "name": "Carrots - Purple, Organic",
-      "price": 816,
-      "quantity": 37,
-      "thumbnail": "http://dummyimage.com/241x100.png/5fa2dd/ffffff",
-      "status": false,
-      "createdAt": 1619270940000,
-      "modifiedAt": 1619443380000
+      "productImage" : "https://nguyenkeo.github.io/MasterAudio/img/DK/DK-VR12L.png",
+      "productBrand" : "DK",
+      "productName": "DK VR12",
+      "productPrice": 18500000,
+      "productQuantity": 1
     },
     {
       "id": 7,
-      "name": "Bag - Regular Kraft 20 Lb",
-      "price": 157,
-      "quantity": 60,
-      "thumbnail": "http://dummyimage.com/156x100.png/cc0000/ffffff",
-      "status": false,
-      "createdAt": 1614098400000,
-      "modifiedAt": "2021-04-16"
+      "productImage" : "https://nguyenkeo.github.io/MasterAudio/img/Baiervires/Baiervires-BS980.png",
+      "productBrand" : "Baiervires",
+      "productName": "BS980",
+      "productPrice": 157,
+      "productQuantity": 1
     },
     {
       "id": 8,
-      "name": "Flour - Bran, Red",
-      "price": 970,
-      "quantity": 40,
-      "thumbnail": "http://dummyimage.com/157x100.png/5fa2dd/ffffff",
-      "status": false,
-      "createdAt": 1617954000000,
-      "modifiedAt": 1619964420000
-    },
-    {
-      "id": 9,
-      "name": "Bread - Bistro Sour",
-      "price": 112,
-      "quantity": 77,
-      "thumbnail": "http://dummyimage.com/147x100.png/dddddd/000000",
-      "status": false,
-      "createdAt": 1612357500000,
-      "modifiedAt": 1614956760000
-    },
-    {
-      "id": 10,
-      "name": "Soup - Campbells Bean Medley",
-      "price": 353,
-      "quantity": 40,
-      "thumbnail": "http://dummyimage.com/203x100.png/ff4444/ffffff",
-      "status": false,
-      "createdAt": 1615146960000,
-      "modifiedAt": 1615146960000
+      "productImage" : "https://nguyenkeo.github.io/MasterAudio/img/hous/amplyfier-Hous-TC-3815.png",
+      "productBrand" : "HOUS",
+      "productName": " TC 3815",
+      "productPrice": 24500000,
+      "productQuantity": 1
     }
   ]
 }
