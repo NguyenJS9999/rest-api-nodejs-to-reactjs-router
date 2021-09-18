@@ -7,7 +7,8 @@
       "productName": "PCS 318NB",
       "productPrice": 65200000,
       "productQuantity": 1,
-      "slug": "4-Acoustic-PCS-318NB"
+      "slug": "4-Acoustic-PCS-318NB",
+      "type" : "subwoofer"
     },
     {
       "id" : "2",
@@ -16,7 +17,8 @@
       "productName": "LS 18",
       "productPrice": 87715000,
       "productQuantity": 1,
-      "slug": "Nexo-LS-18"
+      "slug": "Nexo-LS-18",
+      "type" : "full range"
     },
     {
       "id" : "3",
@@ -25,7 +27,8 @@
       "productName": "Point 15",
       "productPrice": 99111000,
       "productQuantity": 1,
-      "slug": "Adamson-Point-15"
+      "slug": "Adamson-Point-15",
+      "type" : "full range"
     },
     {
 
@@ -35,7 +38,8 @@
       "productName": "X218WFD",
       "productPrice": 179697708,
       "productQuantity": 1,
-      "slug": "Amate-X218WFD"
+      "slug": "Amate-X218WFD",
+      "type" : "subwoofer"
     },
     {
       "id" : "5",
@@ -44,7 +48,8 @@
       "productName": "V110",
       "productPrice": 35000000,
       "productQuantity": 1,
-      "slug": "Kuledy-V110"
+      "slug": "Kuledy-V110",
+      "type" : "line array"
     },
     {
       "id" : "6",
@@ -53,7 +58,8 @@
       "productName": "VR12",
       "productPrice": 18500000,
       "productQuantity": 1,
-      "slug": "DK-VR12"
+      "slug": "DK-VR12",
+      "type" : "text"
     },
     {
       "id" : "7",
@@ -62,7 +68,8 @@
       "productName": "BS980",
       "productPrice": 8900000,
       "productQuantity": 1,
-      "slug": "Baiervires-BS980"
+      "slug": "Baiervires-BS980",
+      "type" : "micro"
     },
     {
       "id" : "8",
@@ -71,7 +78,8 @@
       "productName": " TC 3815",
       "productPrice": 16500000,
       "productQuantity": 1,
-      "slug": "HOUS-TC-3815"
+      "slug": "HOUS-TC-3815",
+      "type" : "amplyfier"
     }
 
   ]
