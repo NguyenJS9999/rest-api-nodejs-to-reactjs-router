@@ -1,86 +1,160 @@
 {
-  "products": [
-    {
-      "id" : "1",
-      "productImage" : "https://nguyenkeo.github.io/MasterAudio/img/4-acoustic/Subwoofer-PCS-318NB.png",
-      "productBrand" : "4 Acoustic",
-      "productName": "PCS 318NB",
-      "productPrice": 65200000,
-      "productQuantity": 1,
-      "slug": "4-Acoustic-PCS-318NB",
-      "type" : "subwoofer"
+  "products": [{
+      "id": "1",
+      "image": "https://nguyenkeo.github.io/MasterAudio/img/4-acoustic/Subwoofer-PCS-318NB.png",
+      "brand": "4 Acoustic",
+      "name": "PCS 318NB",
+      "price": 65200000,
+      "quantity": 1,
+      "type": "subwoofer",
+      "nation": "gemany",
+      "slug": "4-Acoustic-PCS-318NB"
     },
     {
-      "id" : "2",
-      "productImage" : "https://nguyenkeo.github.io/MasterAudio/img/nexo/nexo-ps15.png",
-      "productBrand" : "Nexo",
-      "productName": "LS 18",
-      "productPrice": 87715000,
-      "productQuantity": 1,
-      "slug": "Nexo-LS-18",
-      "type" : "full range"
+      "id": "2",
+      "image": "https://nguyenkeo.github.io/MasterAudio/img/nexo/nexo-ps15.png",
+      "brand": "Nexo",
+      "name": "LS 18",
+      "price": 87715000,
+      "quantity": 1,
+      "type": "full-range",
+      "nation": "french",
+      "slug": "Nexo-LS-18"
     },
     {
-      "id" : "3",
-      "productImage" : "https://nguyenkeo.github.io/MasterAudio/img/adamson/adamson-point15.jpg",
-      "productBrand" : "Adamson",
-      "productName": "Point 15",
-      "productPrice": 99111000,
-      "productQuantity": 1,
-      "slug": "Adamson-Point-15",
-      "type" : "full range"
+      "id": "3",
+      "image": "https://nguyenkeo.github.io/MasterAudio/img/adamson/adamson-point15.jpg",
+      "brand": "Adamson",
+      "name": "Point 15",
+      "price": 99111000,
+      "quantity": 1,
+      "type": "full-range",
+      "nation": "canada",
+      "slug": "Adamson-Point-15"
     },
     {
 
-      "id" : "4",
-      "productImage" : "https://nguyenkeo.github.io/MasterAudio/img//amate/amate-X218WF.png",
-      "productBrand" : "Amate",
-      "productName": "X218WFD",
-      "productPrice": 179697708,
-      "productQuantity": 1,
-      "slug": "Amate-X218WFD",
-      "type" : "subwoofer"
+      "id": "4",
+      "image": "https://nguyenkeo.github.io/MasterAudio/img//amate/amate-X218WF.png",
+      "brand": "Amate",
+      "name": "X218WFD",
+      "price": 179697708,
+      "quantity": 1,
+      "type": "subwoofer",
+      "nation": "spain",
+      "slug": "Amate-X218WFD"
     },
     {
-      "id" : "5",
-      "productImage" : "https://nguyenkeo.github.io/MasterAudio/img/kuledy/kuledy-line-array-v110.png",
-      "productBrand" : "Kuledy",
-      "productName": "V110",
-      "productPrice": 35000000,
-      "productQuantity": 1,
-      "slug": "Kuledy-V110",
-      "type" : "line array"
+      "id": "5",
+      "image": "https://nguyenkeo.github.io/MasterAudio/img/kuledy/kuledy-line-array-v110.png",
+      "brand": "Kuledy",
+      "name": "V110",
+      "price": 35000000,
+      "quantity": 1,
+      "type": "line-array",
+      "nation": "china",
+      "slug": "Kuledy-V110"
     },
     {
-      "id" : "6",
-      "productImage" : "https://nguyenkeo.github.io/MasterAudio/img/DK/DK-VR12L.png",
-      "productBrand" : "DK",
-      "productName": "VR12",
-      "productPrice": 18500000,
-      "productQuantity": 1,
-      "slug": "DK-VR12",
-      "type" : "text"
+      "id": "6",
+      "image": "https://nguyenkeo.github.io/MasterAudio/img/DK/DK-VR12L.png",
+      "brand": "DK",
+      "name": "VR12",
+      "price": 18500000,
+      "quantity": 1,
+      "type": "full-range",
+      "nation": "china",
+      "slug": "DK-VR12"
     },
     {
-      "id" : "7",
-      "productImage" : "https://nguyenkeo.github.io/MasterAudio/img/Baiervires/Baiervires-BS980.png",
-      "productBrand" : "Baiervires",
-      "productName": "BS980",
-      "productPrice": 8900000,
-      "productQuantity": 1,
-      "slug": "Baiervires-BS980",
-      "type" : "micro"
+      "id": "7",
+      "image": "https://nguyenkeo.github.io/MasterAudio/img/Baiervires/Baiervires-BS980.png",
+      "brand": "Baiervires",
+      "name": "BS980",
+      "price": 8900000,
+      "quantity": 1,
+      "type": "micro",
+      "nation": "china",
+      "slug": "Baiervires-BS980"
     },
     {
-      "id" : "8",
-      "productImage" : "https://nguyenkeo.github.io/MasterAudio/img/hous/amplyfier-Hous-TC-3815.png",
-      "productBrand" : "HOUS",
-      "productName": " TC 3815",
-      "productPrice": 16500000,
-      "productQuantity": 1,
-      "slug": "HOUS-TC-3815",
-      "type" : "amplyfier"
+      "id": "8",
+      "image": "https://nguyenkeo.github.io/MasterAudio/img/hous/amplyfier-Hous-TC-3815.png",
+      "brand": "HOUS",
+      "name": " TC 3815",
+      "price": 16500000,
+      "quantity": 1,
+      "type": "amplyfier",
+      "nation": "china",
+      "slug": "HOUS-TC-3815"
     }
 
-  ]
+  ],
+  
+
+  "full-sub-array-midlow": [{
+    "id": "1",
+    "productimage": "https://nguyenkeo.github.io/MasterAudio/img/4-acoustic/Subwoofer-PCS-318NB.png",
+    "productbrand": "4 Acoustic",
+    "productname": "PCS 318NB",
+    "productprice": 65200000,
+    "productquantity": 1,
+    "type": "subwoofer",
+    "nation": "gemany",
+    "slug": "4-Acoustic-PCS-318NB"
+  }],
+
+
+  "mixer-echo": [{
+    "id": "1",
+    "productimage": "https://nguyenkeo.github.io/MasterAudio/img/4-acoustic/Subwoofer-PCS-318NB.png",
+    "productbrand": "4 Acoustic",
+    "productname": "PCS 318NB",
+    "productprice": 65200000,
+    "productquantity": 1,
+    "type": "subwoofer",
+    "nation": "gemany",
+    "slug": "4-Acoustic-PCS-318NB"
+  }],
+
+
+  "amplyfier": [{
+    "id": "1",
+    "productimage": "https://nguyenkeo.github.io/MasterAudio/img/4-acoustic/Subwoofer-PCS-318NB.png",
+    "productbrand": "4 Acoustic",
+    "productname": "PCS 318NB",
+    "productprice": 65200000,
+    "productquantity": 1,
+    "type": "subwoofer",
+    "nation": "gemany",
+    "slug": "4-Acoustic-PCS-318NB"
+  }],
+
+
+  "micro": [{
+    "id": "1",
+    "productimage": "https://nguyenkeo.github.io/MasterAudio/img/4-acoustic/Subwoofer-PCS-318NB.png",
+    "productbrand": "4 Acoustic",
+    "productname": "PCS 318NB",
+    "productprice": 65200000,
+    "productquantity": 1,
+    "type": "subwoofer",
+    "nation": "gemany",
+    "slug": "4-Acoustic-PCS-318NB"
+  }],
+
+
+  "auto-power": [{
+    "id": "1",
+    "productimage": "https://nguyenkeo.github.io/MasterAudio/img/4-acoustic/Subwoofer-PCS-318NB.png",
+    "productbrand": "4 Acoustic",
+    "productname": "PCS 318NB",
+    "productprice": 65200000,
+    "productquantity": 1,
+    "type": "subwoofer",
+    "nation": "gemany",
+    "slug": "4-Acoustic-PCS-318NB"
+  }]
+
+  
 }
