@@ -1,10 +1,18 @@
 {
   "products": [{
-      "id": "1",
-      "image": "https://nguyenkeo.github.io/MasterAudio/img/4-acoustic/Subwoofer-PCS-318NB.png",
+      "id": "     ",
+      "image": "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/4-acoustic/subwoofer/PCS-318NB/PCS-318NB-01.webp",
+      "thumbnail": [
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/4-acoustic/subwoofer/PCS-318NB/PCS-318NB-01.webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/4-acoustic/subwoofer/PCS-318NB/PCS-318NB-05.webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/4-acoustic/subwoofer/PCS-318NB/PCS-318NB-06.webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/4-acoustic/subwoofer/PCS-318NB/PCS-318NB-07.webp"
+      ],
       "brand": "4 Acoustic",
       "name": "PCS 318NB",
       "price": 65200000,
+      "description": "Thiết kế đẹp mắt với kiểu dáng đa năng hình chữ nhật có thể để đứng hoặc nằm ngang từ vào không gian công trình. Thùng loa như những sản phẩm cao cấp đến từ hãng loa Đức là từ gỗ ép bạch dương cao cấp,cực kì chắn chắn nên độ bền và chất âm luôn được đảm bảo tốt nhất. Bề mặt được phủ lớp sơn đen sần đẹp mắt và tôn lên vẻ sang trọng cho sản phẩm. PCS 318 NB Cho áp suất âm thanh tuyệt vời lên tới 154dB. Với hiệu suất công suất cao nhất của loa siêu trầm đáng kinh ngạc này là hơn 18000 Watts. Đáp ứng tần số bao gồm 28 Hz đến 160 Hz và cung cấp một điểm kết nối linh hoạt với các hệ thống trung bình / cao. Trở kháng danh nghĩa là 2,7 ohm. 318NB là giải pháp cho các phòng bay Karaoke, các hội trường lớn, sân khấu ngoài trời với hàng nghìn người nghe",
+      "specifications": [],
       "quantity": 1,
       "type": "subwoofer",
       "nation": "gemany",
@@ -12,21 +20,34 @@
     },
     {
       "id": "2",
-      "image": "https://nguyenkeo.github.io/MasterAudio/img/nexo/nexo-ps15.png",
+      "image": "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/nexo/full-range/ps15/ps15.webp",
+      "thumbnail": [
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/nexo/full-range/ps15/ps15.webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/nexo/full-range/ps15/ps15-hanging.webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/nexo/full-range/ps15/ps15-wedge-no-grille-scaled.webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/nexo/full-range/ps15/ps15rs15.webp"
+      ],
       "brand": "Nexo",
-      "name": "LS 18",
+      "name": "PS 15",
       "price": 87715000,
+      "description": "Loa NEXO PS15 là loa có công suất cao, một trong những dòng loa đẳng cấp bậc nhất thế giới. Hãng loa NEXO France có chất lượng âm thanh tuyệt hảo cùng với thiết kế đẹp mắt rất được yêu thích trên thị trường thế giới. Là sản phẩm tiếp nối NEXO PS10, năm 1994 tiếp tục ra mắt NEXO PS15 và đạt nhiều thành công vang dội. Cho đến hiện tại NEXO PS seri vẫn được các chủ đầu tư quan tâm.",
+      "specifications": [],
       "quantity": 1,
       "type": "full-range",
       "nation": "french",
-      "slug": "Nexo-LS-18"
+      "slug": "Nexo-PS-15"
     },
     {
       "id": "3",
-      "image": "https://nguyenkeo.github.io/MasterAudio/img/adamson/adamson-point15.jpg",
+      "image": "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/adamson/full-range/point15/point15.webp",
+      "thumbnail": [
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/adamson/full-range/point15/point15.webp"
+      ],
       "brand": "Adamson",
       "name": "Point 15",
       "price": 99111000,
+      "description": "Point 15 là chiếc loa có kích thước lớn nhất trong các dải sản phẩm thuộc Point Series của thương hiệu âm thanh Adamson. Với thông số SPL cao và tiếng bass dày đầy uy lực, sản phẩm này được thiết kế để bù lấp hoàn toàn khoảng cách giữa 2 thái cục - áp lực lớn và chất âm trong trẻo tinh tế - và trở thành sự lựa chọn hoàn hảo cho mọi cấu hình live band, DJs, và hệ thống âm thanh cỡ lớn. Point 15 có cả 2 phiên bản passive và active. Sử dụng ND15-L, cùng một loại củ loa với 2 sản phẩm nổi tiếng M15 và M215 - dòng sản phẩm thuộc M Series chuyên dùng cho monitor và nhạc mạnh của Adamson. Chiếc củ loa ND15-L mạnh mẽ đến độ đủ sức làm loa monitor cho nghệ sĩ trong một buổi diễn nhạc rock với sức chứa hơn 100,000 người. Vậy nên nó hoàn toàn đủ khả năng đáp ứng bất cứ nhu cầu sử dụng nào cho hầu hết mọi sân khấu trong nhà, dù là sử dụng làm hệ thống chính, hoặc làm loa bù cho cả một hệ thống thiết bị cho một nhà hát lớn. Kèm theo đó là củ loa tép 1.4” exit HF đi cùng bộ dẫn sóng Adamson với chất liệu fiberglass, mang đến cho chiếc loa này chất âm đẳng cấp không gì sánh được.",
+      "specifications": [],
       "quantity": 1,
       "type": "full-range",
       "nation": "canada",
@@ -35,10 +56,18 @@
     {
 
       "id": "4",
-      "image": "https://nguyenkeo.github.io/MasterAudio/img//amate/amate-X218WF.png",
+      "image": "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/amate/subwoofer/X218WF/X218WF.webp",
+      "thumbnail": [
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/amate/subwoofer/X218WF/X218WF.webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/amate/subwoofer/X218WF/X218WF_rear-2.webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/amate/subwoofer/X218WF/X218WF_right-side-view-1.webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/amate/subwoofer/X218WF/X218EF_nogrille.webp"
+      ],
       "brand": "Amate",
       "name": "X218WFD",
       "price": 179697708,
+      "description": "",
+      "specifications": [],
       "quantity": 1,
       "type": "subwoofer",
       "nation": "spain",
@@ -46,10 +75,16 @@
     },
     {
       "id": "5",
-      "image": "https://nguyenkeo.github.io/MasterAudio/img/kuledy/kuledy-line-array-v110.png",
-      "brand": "Kuledy",
+      "image": "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/kuledy/Line-array/v110/v110(2).webp",
+      "thumbnail": [
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/kuledy/Line-array/v110/v110(2).webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/kuledy/Line-array/v110/v110.webp"
+      ],
+      "brand": "  ",
       "name": "V110",
       "price": 35000000,
+      "description": "",
+      "specifications": [],
       "quantity": 1,
       "type": "line-array",
       "nation": "china",
@@ -57,10 +92,16 @@
     },
     {
       "id": "6",
-      "image": "https://nguyenkeo.github.io/MasterAudio/img/DK/DK-VR12L.png",
+      "image": "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/DK/full-range/VR12L/VR12L(2).webp",
+      "thumbnail": [
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/DK/full-range/VR12L/VR12L(2).webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/DK/full-range/VR12L/VR12L.webp"
+      ],
       "brand": "DK",
       "name": "VR12",
       "price": 18500000,
+      "description": "",
+      "specifications": [],
       "quantity": 1,
       "type": "full-range",
       "nation": "china",
@@ -68,10 +109,15 @@
     },
     {
       "id": "7",
-      "image": "https://nguyenkeo.github.io/MasterAudio/img/Baiervires/Baiervires-BS980.png",
+      "image": "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/Baiervires/BS980/BS980.webp",
+      "thumbnail": [
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/Baiervires/BS980/BS980.webp"
+      ],
       "brand": "Baiervires",
       "name": "BS980",
       "price": 8900000,
+      "description": "",
+      "specifications": [],
       "quantity": 1,
       "type": "micro",
       "nation": "china",
@@ -79,21 +125,65 @@
     },
     {
       "id": "8",
-      "image": "https://nguyenkeo.github.io/MasterAudio/img/hous/amplyfier-Hous-TC-3815.png",
+      "image": "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/hous/Hous-TC-3815/TC-3815/TC-3815.webp",
+      "thumbnail": [
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/hous/Hous-TC-3815/TC-3815/TC-3815.webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/hous/Hous-TC-3815/TC-3815/TC-3815(2).webp"    
+      ],
       "brand": "HOUS",
-      "name": " TC 3815",
+      "name": "TC 3815",
       "price": 16500000,
+      "description": "",
+      "specifications": [],
       "quantity": 1,
       "type": "amplyfier",
       "nation": "china",
       "slug": "HOUS-TC-3815"
+    },
+    {
+      "id": "9",
+      "image": "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/allen-heath/qu-16/allen-heath-qu-16-back-edge-right.webp",
+      "thumbnail": [
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/allen-heath/qu-16/allen-heath-qu-16-back-edge-right.webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/allen-heath/qu-16/allen-heath-qu-16-back.webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/allen-heath/qu-16/allen-heath-qu-16-edge.webp",
+        " https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/allen-heath/qu-16/allen-heath-qu-16.webp"    
+      ],
+      "brand": "allen-heath",
+      "name": "qu 16",
+      "price": 51330000,
+      "description": "Mixer Allen & Heath Anh là dòng mixer Digital gồm 16 kênh Mono Mic Line, 3 Stereo Input, 17 motor faders. Đi cùng với một màn hình cảm ứng nhạy đầy đủ tính năng và khả năng kết hợp với các thiết bị ipad, máy tính điều khiển từ xa.",
+      "specifications": [],
+      "quantity": 1,
+      "type": "Mixer",
+      "nation": "england",
+      "slug": "qu-16 "
+    },
+    {
+      "id": "10",
+      "image": "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/Pioneer%20dj/djm-v10/PIONEER-DJM-V10.webp",
+      "thumbnail": [
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/Pioneer%20dj/djm-v10/PIONEER-DJM-V10.webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/Pioneer%20dj/djm-v10/PIONEER-DJM-V10-back.webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/Pioneer%20dj/djm-v10/djm-v10-filter.webp",
+        " https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/Pioneer%20dj/djm-v10/PIONEER-DJM-V10-edge.webp"
+      ],
+      "brand": " ",
+      "name": "djm-v10",
+      "price": 85800000,
+      "description": "Sản phẩm tiếp theo của nhà Pioneer có 6k kênh kể từ DJM1000 được ra mắt vào năm 2003, và chiếc DJM1000 cũng có bộ Master Isolators giống như V106 Kênh không có nghĩa là bạn sẽ thấy những sân khấu lên đến 6CDJ, hay 4CDJ và 2DJS-1000 ( thiết bị sample). Pioneer Pro Link Giới hạn cho 4 biết bị, vậy 2 kênh bổ sung sẽ hoạt động tốt nhất với các thiết bị ngoại vi không phụ thuộc vào việc được kết nối cùng CDJ hay DJM.Chú ý nho nhỏ mà Pioneer DJ đưa ra trong bản phát hành là các cổng kết nối ở đỉnh thiết bị được xếp thẳng hàng với các jack ở phía sau thiết bị, giúp cho việc setup thiết bị dễ dàng và ít phải loay hoay để tìm đầu cắm như trước đây.",
+      "specifications": [],
+      "quantity": 1,
+      "type": "dj",
+      "nation": "usa",
+      "slug": "djm-v10"
     }
 
   ],
-  
+
 
   "full-sub-array-midlow": [{
-    "id": "1",
+    "id": "     ",
     "productimage": "https://nguyenkeo.github.io/MasterAudio/img/4-acoustic/Subwoofer-PCS-318NB.png",
     "productbrand": "4 Acoustic",
     "productname": "PCS 318NB",
@@ -106,7 +196,7 @@
 
 
   "mixer-echo": [{
-    "id": "1",
+    "id": "     ",
     "productimage": "https://nguyenkeo.github.io/MasterAudio/img/4-acoustic/Subwoofer-PCS-318NB.png",
     "productbrand": "4 Acoustic",
     "productname": "PCS 318NB",
@@ -119,7 +209,7 @@
 
 
   "amplyfier": [{
-    "id": "1",
+    "id": "     ",
     "productimage": "https://nguyenkeo.github.io/MasterAudio/img/4-acoustic/Subwoofer-PCS-318NB.png",
     "productbrand": "4 Acoustic",
     "productname": "PCS 318NB",
@@ -132,7 +222,7 @@
 
 
   "micro": [{
-    "id": "1",
+    "id": "     ",
     "productimage": "https://nguyenkeo.github.io/MasterAudio/img/4-acoustic/Subwoofer-PCS-318NB.png",
     "productbrand": "4 Acoustic",
     "productname": "PCS 318NB",
@@ -145,7 +235,7 @@
 
 
   "auto-power": [{
-    "id": "1",
+    "id": "     ",
     "productimage": "https://nguyenkeo.github.io/MasterAudio/img/4-acoustic/Subwoofer-PCS-318NB.png",
     "productbrand": "4 Acoustic",
     "productname": "PCS 318NB",
@@ -156,5 +246,5 @@
     "slug": "4-Acoustic-PCS-318NB"
   }]
 
-  
+
 }
