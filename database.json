@@ -1,6 +1,6 @@
 {
   "products": [{
-      "id": "1",
+      "id": "product1",
       "image": "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/4-acoustic/subwoofer/PCS-318NB/PCS-318NB-01.webp",
       "thumbnail": [
         "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/4-acoustic/subwoofer/PCS-318NB/PCS-318NB-01.webp",
@@ -19,7 +19,7 @@
       "slug": "4-Acoustic-PCS-318NB"
     },
     {
-      "id": "2",
+      "id": "product2",
       "image": "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/nexo/full-range/ps15/ps15.webp",
       "thumbnail": [
         "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/nexo/full-range/ps15/ps15.webp",
@@ -38,7 +38,7 @@
       "slug": "Nexo-PS-15"
     },
     {
-      "id": "3",
+      "id": "product3",
       "image": "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/adamson/full-range/point15/point15.webp",
       "thumbnail": [
         "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/adamson/full-range/point15/point15.webp"
@@ -55,7 +55,7 @@
     },
     {
 
-      "id": "4",
+      "id": "product4",
       "image": "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/amate/subwoofer/X218WF/X218WF.webp",
       "thumbnail": [
         "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/amate/subwoofer/X218WF/X218WF.webp",
@@ -74,7 +74,7 @@
       "slug": "Amate-X218WFD"
     },
     {
-      "id": "5",
+      "id": "product5",
       "image": "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/kuledy/Line-array/v110/v110(2).webp",
       "thumbnail": [
         "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/kuledy/Line-array/v110/v110(2).webp",
@@ -91,7 +91,7 @@
       "slug": "Kuledy-V110"
     },
     {
-      "id": "6",
+      "id": "product6",
       "image": "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/DK/full-range/VR12L/VR12L(2).webp",
       "thumbnail": [
         "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/DK/full-range/VR12L/VR12L(2).webp",
@@ -108,7 +108,7 @@
       "slug": "DK-VR12"
     },
     {
-      "id": "7",
+      "id": "product7",
       "image": "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/Baiervires/BS980/BS980(2).webp",
       "thumbnail": [
         "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/Baiervires/BS980/BS980(2).webp"
@@ -124,7 +124,7 @@
       "slug": "Baiervires-BS980"
     },
     {
-      "id": "8",
+      "id": "product8",
       "image": "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/hous/Hous-TC-3815/TC-3815/TC-3815.webp",
       "thumbnail": [
         "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/hous/Hous-TC-3815/TC-3815/TC-3815.webp",
@@ -136,12 +136,12 @@
       "description": "",
       "specifications": [],
       "quantity": 1,
-      "type": "amplyfier",
+      "type": "amplifier",
       "nation": "china",
       "slug": "HOUS-TC-3815"
     },
     {
-      "id": "9",
+      "id": "product9",
       "image": "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/allen-heath/qu-16/allen-heath-qu-16-back-edge-right.webp",
       "thumbnail": [
         "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/allen-heath/qu-16/allen-heath-qu-16-back-edge-right.webp",
@@ -160,7 +160,7 @@
       "slug": "qu-16 "
     },
     {
-      "id": "10",
+      "id": "product10",
       "image": "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/Pioneer%20dj/djm-v10/PIONEER-DJM-V10.webp",
       "thumbnail": [
         "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/Pioneer%20dj/djm-v10/PIONEER-DJM-V10.webp",
@@ -182,8 +182,88 @@
   ],
 
 
-  "full-sub-array-midlow": [{
-    "id": "     ",
+  "full-sub-array-midlow": [
+    {
+      "id": "speak1",
+      "image": "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/nexo/full-range/ps15/ps15.webp",
+      "thumbnail": [
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/nexo/full-range/ps15/ps15.webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/nexo/full-range/ps15/ps15-hanging.webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/nexo/full-range/ps15/ps15-wedge-no-grille-scaled.webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/nexo/full-range/ps15/ps15rs15.webp"
+      ],
+      "brand": "Nexo",
+      "name": "PS 15",
+      "price": 87715000,
+      "description": "Loa NEXO PS15 là loa có công suất cao, một trong những dòng loa đẳng cấp bậc nhất thế giới. Hãng loa NEXO France có chất lượng âm thanh tuyệt hảo cùng với thiết kế đẹp mắt rất được yêu thích trên thị trường thế giới. Là sản phẩm tiếp nối NEXO PS10, năm 1994 tiếp tục ra mắt NEXO PS15 và đạt nhiều thành công vang dội. Cho đến hiện tại NEXO PS seri vẫn được các chủ đầu tư quan tâm.",
+      "specifications": [],
+      "quantity": 1,
+      "type": "full-range",
+      "nation": "french",
+      "slug": "Nexo-PS-15"
+    },
+    {
+      "id": "speak2",
+      "image": "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/nexo/full-range/ps15/ps15.webp",
+      "thumbnail": [
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/nexo/full-range/ps15/ps15.webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/nexo/full-range/ps15/ps15-hanging.webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/nexo/full-range/ps15/ps15-wedge-no-grille-scaled.webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/nexo/full-range/ps15/ps15rs15.webp"
+      ],
+      "brand": "Nexo",
+      "name": "PS 15",
+      "price": 87715000,
+      "description": "Loa NEXO PS15 là loa có công suất cao, một trong những dòng loa đẳng cấp bậc nhất thế giới. Hãng loa NEXO France có chất lượng âm thanh tuyệt hảo cùng với thiết kế đẹp mắt rất được yêu thích trên thị trường thế giới. Là sản phẩm tiếp nối NEXO PS10, năm 1994 tiếp tục ra mắt NEXO PS15 và đạt nhiều thành công vang dội. Cho đến hiện tại NEXO PS seri vẫn được các chủ đầu tư quan tâm.",
+      "specifications": [],
+      "quantity": 1,
+      "type": "full-range",
+      "nation": "french",
+      "slug": "Nexo-PS-15"
+    },
+    {
+      "id": "speak3",
+      "image": "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/nexo/full-range/ps15/ps15.webp",
+      "thumbnail": [
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/nexo/full-range/ps15/ps15.webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/nexo/full-range/ps15/ps15-hanging.webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/nexo/full-range/ps15/ps15-wedge-no-grille-scaled.webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/nexo/full-range/ps15/ps15rs15.webp"
+      ],
+      "brand": "Nexo",
+      "name": "PS 15",
+      "price": 87715000,
+      "description": "Loa NEXO PS15 là loa có công suất cao, một trong những dòng loa đẳng cấp bậc nhất thế giới. Hãng loa NEXO France có chất lượng âm thanh tuyệt hảo cùng với thiết kế đẹp mắt rất được yêu thích trên thị trường thế giới. Là sản phẩm tiếp nối NEXO PS10, năm 1994 tiếp tục ra mắt NEXO PS15 và đạt nhiều thành công vang dội. Cho đến hiện tại NEXO PS seri vẫn được các chủ đầu tư quan tâm.",
+      "specifications": [],
+      "quantity": 1,
+      "type": "full-range",
+      "nation": "french",
+      "slug": "Nexo-PS-15"
+    },
+    {
+      "id": "speak4",
+      "image": "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/nexo/full-range/ps15/ps15.webp",
+      "thumbnail": [
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/nexo/full-range/ps15/ps15.webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/nexo/full-range/ps15/ps15-hanging.webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/nexo/full-range/ps15/ps15-wedge-no-grille-scaled.webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/nexo/full-range/ps15/ps15rs15.webp"
+      ],
+      "brand": "Nexo",
+      "name": "PS 15",
+      "price": 87715000,
+      "description": "Loa NEXO PS15 là loa có công suất cao, một trong những dòng loa đẳng cấp bậc nhất thế giới. Hãng loa NEXO France có chất lượng âm thanh tuyệt hảo cùng với thiết kế đẹp mắt rất được yêu thích trên thị trường thế giới. Là sản phẩm tiếp nối NEXO PS10, năm 1994 tiếp tục ra mắt NEXO PS15 và đạt nhiều thành công vang dội. Cho đến hiện tại NEXO PS seri vẫn được các chủ đầu tư quan tâm.",
+      "specifications": [],
+      "quantity": 1,
+      "type": "full-range",
+      "nation": "french",
+      "slug": "Nexo-PS-15"
+    }
+],
+
+
+  "mixer": [{
+    "id": "mixer1",
     "productimage": "https://nguyenkeo.github.io/MasterAudio/img/4-acoustic/Subwoofer-PCS-318NB.png",
     "productbrand": "4 Acoustic",
     "productname": "PCS 318NB",
@@ -195,21 +275,8 @@
   }],
 
 
-  "mixer-echo": [{
-    "id": "     ",
-    "productimage": "https://nguyenkeo.github.io/MasterAudio/img/4-acoustic/Subwoofer-PCS-318NB.png",
-    "productbrand": "4 Acoustic",
-    "productname": "PCS 318NB",
-    "productprice": 65200000,
-    "productquantity": 1,
-    "type": "subwoofer",
-    "nation": "gemany",
-    "slug": "4-Acoustic-PCS-318NB"
-  }],
-
-
-  "amplyfier": [{
-    "id": "     ",
+  "amplifier": [{
+    "id": "amplifier1",
     "productimage": "https://nguyenkeo.github.io/MasterAudio/img/4-acoustic/Subwoofer-PCS-318NB.png",
     "productbrand": "4 Acoustic",
     "productname": "PCS 318NB",
@@ -222,7 +289,7 @@
 
 
   "micro": [{
-    "id": "     ",
+    "id": "micro1",
     "productimage": "https://nguyenkeo.github.io/MasterAudio/img/4-acoustic/Subwoofer-PCS-318NB.png",
     "productbrand": "4 Acoustic",
     "productname": "PCS 318NB",
@@ -235,7 +302,7 @@
 
 
   "auto-power": [{
-    "id": "     ",
+    "id": "power1",
     "productimage": "https://nguyenkeo.github.io/MasterAudio/img/4-acoustic/Subwoofer-PCS-318NB.png",
     "productbrand": "4 Acoustic",
     "productname": "PCS 318NB",
