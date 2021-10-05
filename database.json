@@ -243,12 +243,12 @@
     },
     {
       "id": "p12",
-      "image": " ",
+      "image": "https://github.com/NguyenKeo/MasterAudio/blob/main/img/nexo/subwoofer/ls-18/ls-18(1).jpg?raw=true",
       "thumbnail": [
-        " ",
-        " ",
-        " ",
-        " "     
+        "https://github.com/NguyenKeo/MasterAudio/blob/main/img/nexo/subwoofer/ls-18/ls-18(1).jpg?raw=true",
+        "https://github.com/NguyenKeo/MasterAudio/blob/main/img/nexo/subwoofer/ls-18/ls-18(2).jpg?raw=true",
+        "https://github.com/NguyenKeo/MasterAudio/blob/main/img/nexo/subwoofer/ls-18/ls-18(3).jpg?raw=true",
+        "https://github.com/NguyenKeo/MasterAudio/blob/main/img/nexo/subwoofer/ls-18/ls-18(4).jpg?raw=true"     
       ],
       "brand": "Nexo",
       "name": "LS18",
@@ -256,7 +256,7 @@
       "description": "Loa sub Nexo LS18 Là dòng sub đơn bass 18″ (46Cm) với thiết kế đặc biệt dạng sub hầm độc quyền của Nexo mang lại khả năng tái tạo âm thanh 1 cách mạnh mẽ và uy lực khủng khiếp có thể sử dụng đa năng từ giải trí trong nhà và ngoài trời. Loa sub Nexo LS18 Là dòng loa Passvie trở kháng 8Ohm. Nó có khả năng tái tạo lại âm trầm cực tốt từ : 32Hz đến 130Hz. cùng với độ nhạy cực cao 107db/1w/1m khởi điểm giúp cho việc phối hợp với các amplifier cực kỳ dễ dàng mà không tốn công suất quá nhiều. Cùng với áp lực âm thanh mang lại thực sự ấn tượng lên đến 140db peak/1w/1m.",
       "specifications": [],
       "quantity": 1,
-      "type": " ",
+      "type": "subwoofer",
       "nation": "France",
       "slug": "NEXO-LS-18",
       "status": true
@@ -276,7 +276,7 @@
       "description": "Sản phẩm được sản xuất tại châu Âu",
       "specifications": [],
       "quantity": 1,
-      "type": " ",
+      "type": "full-range",
       "nation": "Germany",
       "slug": " ",
       "status": true
