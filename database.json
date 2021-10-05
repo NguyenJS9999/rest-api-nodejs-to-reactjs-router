@@ -271,14 +271,14 @@
         "https://github.com/NguyenKeo/MasterAudio/blob/main/img/4-acoustic/full-range/HCS-115F/HCS-115F-04.png?raw=true"     
       ],
       "brand": "4 Acoustic",
-      "name": "HCS-115F",
+      "name": "HCS 115F",
       "price": 22950000,
       "description": "Sản phẩm được sản xuất tại châu Âu",
       "specifications": [],
       "quantity": 1,
       "type": "full-range",
       "nation": "Germany",
-      "slug": " ",
+      "slug": "4-Acoustic-HCS-115F",
       "status": true
     },
     {
