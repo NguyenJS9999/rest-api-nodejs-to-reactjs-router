@@ -1,6 +1,40 @@
 {
-  "products": [{
-      "id": "product1",
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Administrator",
+      "lastName": "",
+      "username": "admin",
+      "email": "admin@gmail.com",
+      "password": "admin",
+      "avatar": "https://robohash.org/eaquequasincidunt.png?size=50x50&set=set1",
+      "gender": "Genderfluid",
+      "phone": "933-658-1213",
+      "birthday": "1994-03-23",
+      "status": true,
+      "createdAt": 1609483221000,
+      "modifiedAt": 1609483221000
+    },
+    {
+      "id": 2,
+      "firstName": "Alberta",
+      "lastName": "Farncomb",
+      "username": "afarncomb1",
+      "email": "afarncomb1@liveinternet.ru",
+      "password": "FfshsAlZ",
+      "avatar": "https://robohash.org/accusantiumminimamagni.png?size=50x50&set=set1",
+      "gender": "Male",
+      "phone": "510-449-7332",
+      "birthday": "2002-03-11",
+      "status": false,
+      "createdAt": 1617440961000,
+      "modifiedAt": 1618301961000
+    }
+  ],
+
+  "products": [
+    {
+      "id": "p1",
       "image": "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/4-acoustic/subwoofer/PCS-318NB/PCS-318NB-01.webp",
       "thumbnail": [
         "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/4-acoustic/subwoofer/PCS-318NB/PCS-318NB-01.webp",
@@ -8,18 +42,19 @@
         "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/4-acoustic/subwoofer/PCS-318NB/PCS-318NB-06.webp",
         "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/4-acoustic/subwoofer/PCS-318NB/PCS-318NB-07.webp"
       ],
-      "brand": "4 Acoustic",
+      "brand": "4Acoustic",
       "name": "PCS 318NB",
       "price": 65200000,
       "description": "Thiết kế đẹp mắt với kiểu dáng đa năng hình chữ nhật có thể để đứng hoặc nằm ngang từ vào không gian công trình. Thùng loa như những sản phẩm cao cấp đến từ hãng loa Đức là từ gỗ ép bạch dương cao cấp,cực kì chắn chắn nên độ bền và chất âm luôn được đảm bảo tốt nhất. Bề mặt được phủ lớp sơn đen sần đẹp mắt và tôn lên vẻ sang trọng cho sản phẩm. PCS 318 NB Cho áp suất âm thanh tuyệt vời lên tới 154dB. Với hiệu suất công suất cao nhất của loa siêu trầm đáng kinh ngạc này là hơn 18000 Watts. Đáp ứng tần số bao gồm 28 Hz đến 160 Hz và cung cấp một điểm kết nối linh hoạt với các hệ thống trung bình / cao. Trở kháng danh nghĩa là 2,7 ohm. 318NB là giải pháp cho các phòng bay Karaoke, các hội trường lớn, sân khấu ngoài trời với hàng nghìn người nghe",
       "specifications": [],
       "quantity": 1,
       "type": "subwoofer",
-      "nation": "gemany",
-      "slug": "4-Acoustic-PCS-318NB"
+      "nation": "Germany",
+      "slug": "4-Acoustic-PCS-318NB",
+      "status": true
     },
     {
-      "id": "product2",
+      "id": "p2",
       "image": "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/nexo/full-range/ps15/ps15.webp",
       "thumbnail": [
         "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/nexo/full-range/ps15/ps15.webp",
@@ -35,27 +70,28 @@
       "quantity": 1,
       "type": "full-range",
       "nation": "french",
-      "slug": "Nexo-PS-15"
+      "slug": "Nexo-PS-15",
+      "status": true
     },
     {
-      "id": "product3",
+      "id": "p3",
       "image": "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/adamson/full-range/point15/point15.webp",
       "thumbnail": [
         "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/adamson/full-range/point15/point15.webp"
       ],
       "brand": "Adamson",
-      "name": "Point 15",
+      "name": "Point15",
       "price": 99111000,
       "description": "Point 15 là chiếc loa có kích thước lớn nhất trong các dải sản phẩm thuộc Point Series của thương hiệu âm thanh Adamson. Với thông số SPL cao và tiếng bass dày đầy uy lực, sản phẩm này được thiết kế để bù lấp hoàn toàn khoảng cách giữa 2 thái cục - áp lực lớn và chất âm trong trẻo tinh tế - và trở thành sự lựa chọn hoàn hảo cho mọi cấu hình live band, DJs, và hệ thống âm thanh cỡ lớn. Point 15 có cả 2 phiên bản passive và active. Sử dụng ND15-L, cùng một loại củ loa với 2 sản phẩm nổi tiếng M15 và M215 - dòng sản phẩm thuộc M Series chuyên dùng cho monitor và nhạc mạnh của Adamson. Chiếc củ loa ND15-L mạnh mẽ đến độ đủ sức làm loa monitor cho nghệ sĩ trong một buổi diễn nhạc rock với sức chứa hơn 100,000 người. Vậy nên nó hoàn toàn đủ khả năng đáp ứng bất cứ nhu cầu sử dụng nào cho hầu hết mọi sân khấu trong nhà, dù là sử dụng làm hệ thống chính, hoặc làm loa bù cho cả một hệ thống thiết bị cho một nhà hát lớn. Kèm theo đó là củ loa tép 1.4” exit HF đi cùng bộ dẫn sóng Adamson với chất liệu fiberglass, mang đến cho chiếc loa này chất âm đẳng cấp không gì sánh được.",
       "specifications": [],
       "quantity": 1,
       "type": "full-range",
       "nation": "canada",
-      "slug": "Adamson-Point-15"
+      "slug": "Adamson-Point-15",
+      "status": true
     },
     {
-
-      "id": "product4",
+      "id": "p4",
       "image": "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/amate/subwoofer/X218WF/X218WF.webp",
       "thumbnail": [
         "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/amate/subwoofer/X218WF/X218WF.webp",
@@ -71,10 +107,11 @@
       "quantity": 1,
       "type": "subwoofer",
       "nation": "spain",
-      "slug": "Amate-X218WFD"
+      "slug": "Amate-X218WFD",
+      "status": true
     },
     {
-      "id": "product5",
+      "id": "p5",
       "image": "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/kuledy/Line-array/v110/v110(2).webp",
       "thumbnail": [
         "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/kuledy/Line-array/v110/v110(2).webp",
@@ -88,10 +125,11 @@
       "quantity": 1,
       "type": "line-array",
       "nation": "china",
-      "slug": "Kuledy-V110"
+      "slug": "Kuledy-V110",
+      "status": true
     },
     {
-      "id": "product6",
+      "id": "p6",
       "image": "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/DK/full-range/VR12L/VR12L(2).webp",
       "thumbnail": [
         "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/DK/full-range/VR12L/VR12L(2).webp",
@@ -105,62 +143,66 @@
       "quantity": 1,
       "type": "full-range",
       "nation": "china",
-      "slug": "DK-VR12"
+      "slug": "DK-VR12",
+      "status": true
     },
     {
-      "id": "product7",
+      "id": "p7",
       "image": "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/Baiervires/BS980/BS980(2).webp",
       "thumbnail": [
         "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/Baiervires/BS980/BS980(2).webp"
       ],
       "brand": "Baiervires",
-      "name": "BS980",
+      "name": "BS 980",
       "price": 8900000,
       "description": "",
       "specifications": [],
       "quantity": 1,
       "type": "micro",
       "nation": "china",
-      "slug": "Baiervires-BS980"
+      "slug": "Baiervires-BS980",
+      "status": true
     },
     {
-      "id": "product8",
+      "id": "p8",
       "image": "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/hous/Hous-TC-3815/TC-3815/TC-3815.webp",
       "thumbnail": [
         "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/hous/Hous-TC-3815/TC-3815/TC-3815.webp",
-        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/hous/Hous-TC-3815/TC-3815/TC-3815(2).webp"    
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/hous/Hous-TC-3815/TC-3815/TC-3815(2).webp"
       ],
       "brand": "HOUS",
-      "name": "TC 3815",
+      "name": "TC 815",
       "price": 16500000,
       "description": "",
       "specifications": [],
       "quantity": 1,
       "type": "amplifier",
       "nation": "china",
-      "slug": "HOUS-TC-3815"
+      "slug": "HOUS-TC-3815",
+      "status": true
     },
     {
-      "id": "product9",
+      "id": "p9",
       "image": "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/allen-heath/qu-16/allen-heath-qu-16-back-edge-right.webp",
       "thumbnail": [
         "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/allen-heath/qu-16/allen-heath-qu-16-back-edge-right.webp",
         "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/allen-heath/qu-16/allen-heath-qu-16-back.webp",
         "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/allen-heath/qu-16/allen-heath-qu-16-edge.webp",
-        " https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/allen-heath/qu-16/allen-heath-qu-16.webp"    
+        " https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/allen-heath/qu-16/allen-heath-qu-16.webp"
       ],
       "brand": "Allen heath",
-      "name": "qu 16",
+      "name": "QU16",
       "price": 51330000,
       "description": "Mixer Allen & Heath Anh là dòng mixer Digital gồm 16 kênh Mono Mic Line, 3 Stereo Input, 17 motor faders. Đi cùng với một màn hình cảm ứng nhạy đầy đủ tính năng và khả năng kết hợp với các thiết bị ipad, máy tính điều khiển từ xa.",
       "specifications": [],
       "quantity": 1,
       "type": "Mixer",
       "nation": "england",
-      "slug": "qu-16 "
+      "slug": "qu-16 ",
+      "status": true
     },
     {
-      "id": "product10",
+      "id": "p10",
       "image": "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/Pioneer%20dj/djm-v10/PIONEER-DJM-V10.webp",
       "thumbnail": [
         "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/Pioneer%20dj/djm-v10/PIONEER-DJM-V10.webp",
@@ -176,11 +218,211 @@
       "quantity": 1,
       "type": "dj",
       "nation": "usa",
-      "slug": "djm-v10"
+      "slug": "djm-v10",
+      "status": true
+    },
+    {
+      "id": "p11",
+      "image": "https://github.com/NguyenKeo/MasterAudio/blob/main/img/4-acoustic/full-range/SC-15/full-range-SC-15(1).png?raw=true",
+      "thumbnail": [
+        "https://github.com/NguyenKeo/MasterAudio/blob/main/img/4-acoustic/full-range/SC-15/full-range-SC-15(1).png?raw=true",
+        "https://github.com/NguyenKeo/MasterAudio/blob/main/img/4-acoustic/full-range/SC-15/full-range-SC-15(2).png?raw=true",
+        "https://github.com/NguyenKeo/MasterAudio/blob/main/img/4-acoustic/full-range/SC-15/full-range-SC-15(3).png?raw=true",
+        "https://github.com/NguyenKeo/MasterAudio/blob/main/img/4-acoustic/full-range/SC-15/full-range-SC-15(4).png?raw=true"     
+      ],
+      "brand": "4Acoustic",
+      "name": "SC 15",
+      "price": 25500000,
+      "description": "Loa được cấu tạo bởi bass 15” (40cm) cho dải âm trầm và âm trung mạnh mẽ, sống động và dày tiếng hơn kết hợp với treble 5” (13cm) âm thanh sẽ được tái hiện một cách chân thực nhất. Loa có công suất lớn 600W và có thể lên đến 2400W. SC15 sẽ là lựa chọn tuyệt vời dành cho các phòng karaoke chuyên nghiệp, karaoke gia đình, bar, hội trường và sân khấu biểu diễn.",
+      "specifications": [],
+      "quantity": 1,
+      "type": "full-range",
+      "nation": "Germany",
+      "slug": "4-Acoustic-SC-15",
+      "status": true
+    },
+    {
+      "id": "p12",
+      "image": " ",
+      "thumbnail": [
+        " ",
+        " ",
+        " ",
+        " "     
+      ],
+      "brand": "NEXO",
+      "name": "LS18",
+      "price": 89612600,
+      "description": "Loa sub Nexo LS18 Là dòng sub đơn bass 18″ (46Cm) với thiết kế đặc biệt dạng sub hầm độc quyền của Nexo mang lại khả năng tái tạo âm thanh 1 cách mạnh mẽ và uy lực khủng khiếp có thể sử dụng đa năng từ giải trí trong nhà và ngoài trời. Loa sub Nexo LS18 Là dòng loa Passvie trở kháng 8Ohm. Nó có khả năng tái tạo lại âm trầm cực tốt từ : 32Hz đến 130Hz. cùng với độ nhạy cực cao 107db/1w/1m khởi điểm giúp cho việc phối hợp với các amplifier cực kỳ dễ dàng mà không tốn công suất quá nhiều. Cùng với áp lực âm thanh mang lại thực sự ấn tượng lên đến 140db peak/1w/1m.",
+      "specifications": [],
+      "quantity": 1,
+      "type": " ",
+      "nation": "France",
+      "slug": "NEXO-LS-18",
+      "status": true
+    },
+    {
+      "id": "p13",
+      "image": " ",
+      "thumbnail": [
+        " ",
+        " ",
+        " ",
+        " "     
+      ],
+      "brand": "4 Acoustic",
+      "name": "HCS-115F",
+      "price": 22950000,
+      "description": "Sản phẩm được sản xuất tại châu Âu",
+      "specifications": [],
+      "quantity": 1,
+      "type": " ",
+      "nation": " ",
+      "slug": " ",
+      "status": true
+    },
+    {
+      "id": "p14",
+      "image": " ",
+      "thumbnail": [
+        " ",
+        " ",
+        " ",
+        " "     
+      ],
+      "brand": " ",
+      "name": " ",
+      "price": 85800000,
+      "description": "Sản phẩm được sản xuất tại châu Âu",
+      "specifications": [],
+      "quantity": 1,
+      "type": " ",
+      "nation": " ",
+      "slug": " ",
+      "status": true
+    },
+    {
+      "id": "p15",
+      "image": " ",
+      "thumbnail": [
+        " ",
+        " ",
+        " ",
+        " "     
+      ],
+      "brand": " ",
+      "name": " ",
+      "price": 85800000,
+      "description": "Sản phẩm được sản xuất tại châu Âu",
+      "specifications": [],
+      "quantity": 1,
+      "type": " ",
+      "nation": " ",
+      "slug": " ",
+      "status": true
+    },
+    {
+      "id": "p16",
+      "image": " ",
+      "thumbnail": [
+        " ",
+        " ",
+        " ",
+        " "     
+      ],
+      "brand": " ",
+      "name": " ",
+      "price": 85800000,
+      "description": "Sản phẩm được sản xuất tại châu Âu",
+      "specifications": [],
+      "quantity": 1,
+      "type": " ",
+      "nation": " ",
+      "slug": " ",
+      "status": true
+    },
+    {
+      "id": "p17",
+      "image": " ",
+      "thumbnail": [
+        " ",
+        " ",
+        " ",
+        " "     
+      ],
+      "brand": " ",
+      "name": " ",
+      "price": 85800000,
+      "description": "Sản phẩm được sản xuất tại châu Âu",
+      "specifications": [],
+      "quantity": 1,
+      "type": " ",
+      "nation": " ",
+      "slug": " ",
+      "status": true
+    },
+    {
+      "id": "p18",
+      "image": " ",
+      "thumbnail": [
+        " ",
+        " ",
+        " ",
+        " "     
+      ],
+      "brand": " ",
+      "name": " ",
+      "price": 85800000,
+      "description": "Sản phẩm được sản xuất tại châu Âu",
+      "specifications": [],
+      "quantity": 1,
+      "type": " ",
+      "nation": " ",
+      "slug": " ",
+      "status": true
+    },
+    {
+      "id": "p19",
+      "image": " ",
+      "thumbnail": [
+        " ",
+        " ",
+        " ",
+        " "     
+      ],
+      "brand": " ",
+      "name": " ",
+      "price": 85800000,
+      "description": "Sản phẩm được sản xuất tại châu Âu",
+      "specifications": [],
+      "quantity": 1,
+      "type": " ",
+      "nation": " ",
+      "slug": " ",
+      "status": true
+    },
+    {
+      "id": "20",
+      "image": " ",
+      "thumbnail": [
+        " ",
+        " ",
+        " ",
+        " "     
+      ],
+      "brand": " ",
+      "name": " ",
+      "price": 85800000,
+      "description": "Sản phẩm được sản xuất tại châu Âu",
+      "specifications": [],
+      "quantity": 1,
+      "type": " ",
+      "nation": " ",
+      "slug": " ",
+      "status": true
     }
-
+    
   ],
-
 
   "full-sub-array-midlow": [
     {
@@ -193,14 +435,15 @@
         "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/nexo/full-range/ps15/ps15rs15.webp"
       ],
       "brand": "Nexo",
-      "name": "PS 15",
+      "name": "PS15",
       "price": 87715000,
       "description": "Loa NEXO PS15 là loa có công suất cao, một trong những dòng loa đẳng cấp bậc nhất thế giới. Hãng loa NEXO France có chất lượng âm thanh tuyệt hảo cùng với thiết kế đẹp mắt rất được yêu thích trên thị trường thế giới. Là sản phẩm tiếp nối NEXO PS10, năm 1994 tiếp tục ra mắt NEXO PS15 và đạt nhiều thành công vang dội. Cho đến hiện tại NEXO PS seri vẫn được các chủ đầu tư quan tâm.",
       "specifications": [],
       "quantity": 1,
       "type": "full-range",
       "nation": "french",
-      "slug": "Nexo-PS-15"
+      "slug": "Nexo-PS-15",
+      "status": true
     },
     {
       "id": "speak2",
@@ -212,14 +455,15 @@
         "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/nexo/full-range/ps15/ps15rs15.webp"
       ],
       "brand": "Nexo",
-      "name": "PS 15",
+      "name": "PS15",
       "price": 87715000,
       "description": "Loa NEXO PS15 là loa có công suất cao, một trong những dòng loa đẳng cấp bậc nhất thế giới. Hãng loa NEXO France có chất lượng âm thanh tuyệt hảo cùng với thiết kế đẹp mắt rất được yêu thích trên thị trường thế giới. Là sản phẩm tiếp nối NEXO PS10, năm 1994 tiếp tục ra mắt NEXO PS15 và đạt nhiều thành công vang dội. Cho đến hiện tại NEXO PS seri vẫn được các chủ đầu tư quan tâm.",
       "specifications": [],
       "quantity": 1,
       "type": "full-range",
       "nation": "french",
-      "slug": "Nexo-PS-15"
+      "slug": "Nexo-PS-15",
+      "status": true
     },
     {
       "id": "speak3",
@@ -231,14 +475,15 @@
         "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/nexo/full-range/ps15/ps15rs15.webp"
       ],
       "brand": "Nexo",
-      "name": "PS 15",
+      "name": "PS15",
       "price": 87715000,
       "description": "Loa NEXO PS15 là loa có công suất cao, một trong những dòng loa đẳng cấp bậc nhất thế giới. Hãng loa NEXO France có chất lượng âm thanh tuyệt hảo cùng với thiết kế đẹp mắt rất được yêu thích trên thị trường thế giới. Là sản phẩm tiếp nối NEXO PS10, năm 1994 tiếp tục ra mắt NEXO PS15 và đạt nhiều thành công vang dội. Cho đến hiện tại NEXO PS seri vẫn được các chủ đầu tư quan tâm.",
       "specifications": [],
       "quantity": 1,
       "type": "full-range",
       "nation": "french",
-      "slug": "Nexo-PS-15"
+      "slug": "Nexo-PS-15",
+      "status": true
     },
     {
       "id": "speak4",
@@ -250,68 +495,97 @@
         "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/nexo/full-range/ps15/ps15rs15.webp"
       ],
       "brand": "Nexo",
-      "name": "PS 15",
+      "name": "PS15",
       "price": 87715000,
       "description": "Loa NEXO PS15 là loa có công suất cao, một trong những dòng loa đẳng cấp bậc nhất thế giới. Hãng loa NEXO France có chất lượng âm thanh tuyệt hảo cùng với thiết kế đẹp mắt rất được yêu thích trên thị trường thế giới. Là sản phẩm tiếp nối NEXO PS10, năm 1994 tiếp tục ra mắt NEXO PS15 và đạt nhiều thành công vang dội. Cho đến hiện tại NEXO PS seri vẫn được các chủ đầu tư quan tâm.",
       "specifications": [],
       "quantity": 1,
       "type": "full-range",
       "nation": "french",
-      "slug": "Nexo-PS-15"
+      "slug": "Nexo-PS-15",
+      "status": true
     }
-],
+  ],
 
+  "mixer": [
+    {
+      "id": "mixer1",
+      "productimage": "https://nguyenkeo.github.io/MasterAudio/img/4-acoustic/Subwoofer-PCS-318NB.png",
+      "productbrand": "4 Acoustic",
+      "productname": "PCS 318NB",
+      "productprice": 65200000,
+      "productquantity": 1,
+      "type": "subwoofer",
+      "nation": "gemany",
+      "slug": "4-Acoustic-PCS-318NB",
+      "status": true
+    }
+  ],
 
-  "mixer": [{
-    "id": "mixer1",
-    "productimage": "https://nguyenkeo.github.io/MasterAudio/img/4-acoustic/Subwoofer-PCS-318NB.png",
-    "productbrand": "4 Acoustic",
-    "productname": "PCS 318NB",
-    "productprice": 65200000,
-    "productquantity": 1,
-    "type": "subwoofer",
-    "nation": "gemany",
-    "slug": "4-Acoustic-PCS-318NB"
-  }],
+  "amplifier": [
+    {
+      "id": "amplifier1",
+      "productimage": "https://nguyenkeo.github.io/MasterAudio/img/4-acoustic/Subwoofer-PCS-318NB.png",
+      "productbrand": "4 Acoustic",
+      "productname": "PCS 318NB",
+      "productprice": 65200000,
+      "productquantity": 1,
+      "type": "subwoofer",
+      "nation": "gemany",
+      "slug": "4-Acoustic-PCS-318NB",
+      "status": true
+    }
+  ],
 
+  "micro": [
+    {
+      "id": "micro1",
+      "productimage": "https://nguyenkeo.github.io/MasterAudio/img/4-acoustic/Subwoofer-PCS-318NB.png",
+      "productbrand": "4 Acoustic",
+      "productname": "PCS 318NB",
+      "productprice": 65200000,
+      "productquantity": 1,
+      "type": "subwoofer",
+      "nation": "gemany",
+      "slug": "4-Acoustic-PCS-318NB",
+      "status": true
+    }
+  ],
 
-  "amplifier": [{
-    "id": "amplifier1",
-    "productimage": "https://nguyenkeo.github.io/MasterAudio/img/4-acoustic/Subwoofer-PCS-318NB.png",
-    "productbrand": "4 Acoustic",
-    "productname": "PCS 318NB",
-    "productprice": 65200000,
-    "productquantity": 1,
-    "type": "subwoofer",
-    "nation": "gemany",
-    "slug": "4-Acoustic-PCS-318NB"
-  }],
-
-
-  "micro": [{
-    "id": "micro1",
-    "productimage": "https://nguyenkeo.github.io/MasterAudio/img/4-acoustic/Subwoofer-PCS-318NB.png",
-    "productbrand": "4 Acoustic",
-    "productname": "PCS 318NB",
-    "productprice": 65200000,
-    "productquantity": 1,
-    "type": "subwoofer",
-    "nation": "gemany",
-    "slug": "4-Acoustic-PCS-318NB"
-  }],
-
-
-  "auto-power": [{
-    "id": "power1",
-    "productimage": "https://nguyenkeo.github.io/MasterAudio/img/4-acoustic/Subwoofer-PCS-318NB.png",
-    "productbrand": "4 Acoustic",
-    "productname": "PCS 318NB",
-    "productprice": 65200000,
-    "productquantity": 1,
-    "type": "subwoofer",
-    "nation": "gemany",
-    "slug": "4-Acoustic-PCS-318NB"
-  }]
-
-
+  "auto-power": [
+    {
+      "id": "power1",
+      "productimage": "https://nguyenkeo.github.io/MasterAudio/img/4-acoustic/Subwoofer-PCS-318NB.png",
+      "productbrand": "4 Acoustic",
+      "productname": "PCS 318NB",
+      "productprice": 65200000,
+      "productquantity": 1,
+      "type": "subwoofer",
+      "nation": "gemany",
+      "slug": "4-Acoustic-PCS-318NB",
+      "status": true
+    }
+  ],
+  "test" : [
+    {
+      "id": " ",
+      "image": " ",
+      "thumbnail": [
+        " ",
+        " ",
+        " ",
+        " "     
+      ],
+      "brand": " ",
+      "name": " ",
+      "price": 85800000,
+      "description": "Sản phẩm được sản xuất tại châu Âu",
+      "specifications": [],
+      "quantity": 1,
+      "type": " ",
+      "nation": " ",
+      "slug": " ",
+      "status": true
+    }
+  ]
 }
