@@ -283,22 +283,22 @@
     },
     {
       "id": "p14",
-      "image": " ",
+      "image": "https://github.com/NguyenKeo/MasterAudio/blob/main/img/4-acoustic/Line-array/PCS-210L/PCS-210L-01.png?raw=true",
       "thumbnail": [
-        " ",
-        " ",
-        " ",
-        " "     
+        "https://github.com/NguyenKeo/MasterAudio/blob/main/img/4-acoustic/Line-array/PCS-210L/PCS-210L-01.png?raw=true",
+        "https://github.com/NguyenKeo/MasterAudio/blob/main/img/4-acoustic/Line-array/PCS-210L/PCS-210L-02.png?raw=true",
+        "https://github.com/NguyenKeo/MasterAudio/blob/main/img/4-acoustic/Line-array/PCS-210L/PCS-210L-03.png?raw=true",
+        "https://github.com/NguyenKeo/MasterAudio/blob/main/img/4-acoustic/Line-array/PCS-210L/PCS-210L-04.png?raw=true"     
       ],
-      "brand": " ",
-      "name": " ",
-      "price": 85800000,
-      "description": "Sản phẩm được sản xuất tại châu Âu",
+      "brand": "4 Acoustic",
+      "name": "PCS 210L",
+      "price": 71600000,
+      "description": "Loa Line Array 4 Acoustic PCS–210L được sản xuất và thiết kế theo công nghệ hiện đại và mới nhất hiện nay của hãng loa 4 Acoustic Germany. Với công nghệ hiện đại, tiên tiến mang đến âm thanh vượt trội, cùng với kiểu dáng và cấu tạo đặc biệt giúp việc sử dụng và lắp đặt dễ dàng hơn với nhiều không gian âm thanh có diện tích lớn.",
       "specifications": [],
       "quantity": 1,
-      "type": " ",
-      "nation": " ",
-      "slug": " ",
+      "type": "line-array",
+      "nation": "Gemany",
+      "slug": "4-Acoustic-PCS-210L",
       "status": true
     },
     {
