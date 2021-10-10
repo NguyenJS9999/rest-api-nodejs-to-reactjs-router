@@ -470,9 +470,12 @@
     },
     {
       "id": "p3",
-      "image": "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/adamson/full-range/point15/point15.webp",
+      "image": "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/adamson/full-range/point15/point15(1).webp",
       "thumbnail": [
-        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/adamson/full-range/point15/point15.webp"
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/adamson/full-range/point15/point15(1).webp",
+        "https://github.com/NguyenKeo/MasterAudio/blob/main/img/adamson/full-range/point15/point15(2).jpg?raw=true",
+        "https://github.com/NguyenKeo/MasterAudio/blob/main/img/adamson/full-range/point15/point15(3).jpg?raw=true",
+        "https://github.com/NguyenKeo/MasterAudio/blob/main/img/adamson/full-range/point15/point15(4).jpg?raw=true"
       ],
       "brand": "Adamson",
       "name": "Point15",
