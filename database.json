@@ -126,8 +126,8 @@
       "description": "",
       "specifications": [],
       "quantity": 1,
-      "type": "line-array",
-      "nation": "china",
+      "type": "Line Array",
+      "nation": "China",
       "slug": "Kuledy-V110",
       "status": true
     },
@@ -145,7 +145,7 @@
       "specifications": [],
       "quantity": 1,
       "type": "Full range",
-      "nation": "china",
+      "nation": "China",
       "slug": "DK-VR12",
       "status": true
     },
@@ -162,7 +162,7 @@
       "specifications": [],
       "quantity": 1,
       "type": "micro",
-      "nation": "china",
+      "nation": "China",
       "slug": "Baiervires-BS980",
       "status": true
     },
@@ -180,7 +180,7 @@
       "specifications": [],
       "quantity": 1,
       "type": "amplifier",
-      "nation": "china",
+      "nation": "China",
       "slug": "HOUS-TC-3815",
       "status": true
     },
@@ -299,7 +299,7 @@
       "description": "Loa Line Array 4 Acoustic PCS–210L được sản xuất và thiết kế theo công nghệ hiện đại và mới nhất hiện nay của hãng loa 4 Acoustic Germany. Với công nghệ hiện đại, tiên tiến mang đến âm thanh vượt trội, cùng với kiểu dáng và cấu tạo đặc biệt giúp việc sử dụng và lắp đặt dễ dàng hơn với nhiều không gian âm thanh có diện tích lớn.",
       "specifications": [],
       "quantity": 1,
-      "type": "line-array",
+      "type": "Line Array",
       "nation": "Germany",
       "slug": "4-Acoustic-PCS-210L",
       "status": true
@@ -339,7 +339,7 @@
       "description": "CS10n là một loa thông minh hai chiều, đầy đủ, được thiết kế để sử dụng trong nhiều ứng dụng khác nhau. Sử dụng nền tảng mạng độc quyền của Adamson, CS10n sử dụng một sơ đồ MILAN dự phòng với khả năng kết nối âm thanh nối mạng giữa nhiều nguồn, đầu vào và đầu ra XLR tương tự, cũng như DSP và khuếch đại trên tàu. Tất cả các tính năng của loa được điều khiển và giám sát thông qua phần mềm CS độc quyền của Adamson.",
       "specifications": [],
       "quantity": 1,
-      "type": "line-array",
+      "type": "Line Array",
       "nation": "Spain",
       "slug": "Adamson-CS-10N",
       "status": true
