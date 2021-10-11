@@ -345,42 +345,42 @@
     },
     {
       "id": "p17",
-      "image": " ",
+      "image": "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/kuledy/Mid-low/Midlow-Kuledy-110s/110s(1).webp",
       "thumbnail": [
-        " ",
-        " ",
-        " ",
-        " "
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/kuledy/Mid-low/Midlow-Kuledy-110s/110s(1).webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/kuledy/Mid-low/Midlow-Kuledy-110s/110s(2).webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/kuledy/Mid-low/Midlow-Kuledy-110s/110s(3).webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/kuledy/Mid-low/Midlow-Kuledy-110s/110s(4).webp"
       ],
-      "brand": " ",
-      "name": " ",
-      "price": 85800000,
+      "brand": "Kuledy",
+      "name": "V110S",
+      "price": 22000000,
       "description": "Sản phẩm được sản xuất tại châu Âu",
       "specifications": [],
       "quantity": 1,
-      "type": " ",
-      "nation": " ",
-      "slug": " ",
+      "type": "Mid Low",
+      "nation": "China",
+      "slug": "kuledy-v110s",
       "status": true
     },
     {
       "id": "p18",
-      "image": " ",
+      "image": "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/adamson/subwoofer/E219/E219(1).webp",
       "thumbnail": [
-        " ",
-        " ",
-        " ",
-        " "
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/adamson/subwoofer/E219/E219(1).webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/adamson/subwoofer/E219/E219(2).webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/adamson/subwoofer/E219/E219(3).webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/adamson/subwoofer/E219/E219(4).webp"
       ],
-      "brand": " ",
-      "name": " ",
+      "brand": "Adamson",
+      "name": "E219",
       "price": 85800000,
       "description": "Sản phẩm được sản xuất tại châu Âu",
       "specifications": [],
       "quantity": 1,
-      "type": " ",
-      "nation": " ",
-      "slug": " ",
+      "type": "Subwoofer",
+      "nation": "Canada",
+      "slug": "adamson-e219",
       "status": true
     },
     {
@@ -565,6 +565,7 @@
     }
 
   ],
+  
   "mixer": [
     {
       "id": "p9",
@@ -596,7 +597,7 @@
         "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/hous/Hous-TC-3815/TC-3815/TC-3815(2).webp"
       ],
       "brand": "HOUS",
-      "name": "TC 815",
+      "name": "TC 3815",
       "price": 16500000,
       "description": "",
       "specifications": [],
