@@ -424,7 +424,7 @@
       "status": true
     }
   ],
-  "full-sub-array-midlow": [
+  "betser-month": [
     {
       "id": "p2",
       "image": "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/nexo/full-range/ps15/ps15.webp",
@@ -485,7 +485,7 @@
       "slug": "Adamson-Point-15",
       "status": true
     },
-    { 
+    {
       "id": "p16",
       "image": "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/adamson/Line-array/CS10n/CS10n(1).png",
       "thumbnail": [
@@ -506,6 +506,7 @@
       "status": true
     }
   ],
+  "full-sub-array-midlow": [],
   "mixer": [
     {
       "id": "mixer1",
