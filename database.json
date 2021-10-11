@@ -178,7 +178,7 @@
       "description": "",
       "specifications": [],
       "quantity": 1,
-      "type": "amplifier",
+      "type": "Amplifier",
       "nation": "China",
       "slug": "HOUS-TC-3815",
       "status": true
@@ -506,62 +506,129 @@
       "status": true
     }
   ],
-  "full-sub-array-midlow": [],
+  "full-sub-array-midlow": [
+    {
+      "id": "p6",
+      "image": "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/DK/full-range/VR12L/VR12L(2).webp",
+      "thumbnail": [
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/DK/full-range/VR12L/VR12L(2).webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/DK/full-range/VR12L/VR12L.webp"
+      ],
+      "brand": "DK",
+      "name": "VR12",
+      "price": 18500000,
+      "description": "",
+      "specifications": [],
+      "quantity": 1,
+      "type": "Full range",
+      "nation": "China",
+      "slug": "DK-VR12",
+      "status": true
+    },
+    {
+      "id": "p4",
+      "image": "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/amate/subwoofer/X218WF/X218WF.webp",
+      "thumbnail": [
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/amate/subwoofer/X218WF/X218WF.webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/amate/subwoofer/X218WF/X218WF_rear-2.webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/amate/subwoofer/X218WF/X218WF_right-side-view-1.webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/amate/subwoofer/X218WF/X218EF_nogrille.webp"
+      ],
+      "brand": "Amate",
+      "name": "X218WFD",
+      "price": 179697708,
+      "description": "",
+      "specifications": [],
+      "quantity": 1,
+      "type": "Subwoofer",
+      "nation": "spain",
+      "slug": "Amate-X218WFD",
+      "status": true
+    },
+    {
+      "id": "p5",
+      "image": "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/kuledy/Line-array/v110/v110(2).webp",
+      "thumbnail": [
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/kuledy/Line-array/v110/v110(2).webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/kuledy/Line-array/v110/v110.webp"
+      ],
+      "brand": "Kuledy",
+      "name": "V110",
+      "price": 35000000,
+      "description": "",
+      "specifications": [],
+      "quantity": 1,
+      "type": "Line Array",
+      "nation": "China",
+      "slug": "Kuledy-V110",
+      "status": true
+    }
+
+  ],
   "mixer": [
     {
-      "id": "mixer1",
-      "productimage": "https://nguyenkeo.github.io/MasterAudio/img/4-acoustic/Subwoofer-PCS-318NB.png",
-      "productbrand": "4 Acoustic",
-      "productname": "PCS 318NB",
-      "productprice": 65200000,
-      "productquantity": 1,
-      "type": "Subwoofer",
-      "nation": "gemany",
-      "slug": "4-Acoustic-PCS-318NB",
+      "id": "p9",
+      "image": "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/allen-heath/qu-16/allen-heath-qu-16-back-edge-right.webp",
+      "thumbnail": [
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/allen-heath/qu-16/allen-heath-qu-16-back-edge-right.webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/allen-heath/qu-16/allen-heath-qu-16-back.webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/allen-heath/qu-16/allen-heath-qu-16-edge.webp",
+        " https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/allen-heath/qu-16/allen-heath-qu-16.webp"
+      ],
+      "brand": "Allen heath",
+      "name": "QU16",
+      "price": 51330000,
+      "description": "Mixer Allen & Heath Anh là dòng mixer Digital gồm 16 kênh Mono Mic Line, 3 Stereo Input, 17 motor faders. Đi cùng với một màn hình cảm ứng nhạy đầy đủ tính năng và khả năng kết hợp với các thiết bị ipad, máy tính điều khiển từ xa.",
+      "specifications": [],
+      "quantity": 1,
+      "type": "Mixer",
+      "nation": "england",
+      "slug": "qu-16 ",
       "status": true
     }
   ],
   "amplifier": [
     {
-      "id": "amplifier1",
-      "productimage": "https://nguyenkeo.github.io/MasterAudio/img/4-acoustic/Subwoofer-PCS-318NB.png",
-      "productbrand": "4 Acoustic",
-      "productname": "PCS 318NB",
-      "productprice": 65200000,
-      "productquantity": 1,
-      "type": "Subwoofer",
-      "nation": "gemany",
-      "slug": "4-Acoustic-PCS-318NB",
+      "id": "p8",
+      "image": "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/hous/Hous-TC-3815/TC-3815/TC-3815.webp",
+      "thumbnail": [
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/hous/Hous-TC-3815/TC-3815/TC-3815.webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/hous/Hous-TC-3815/TC-3815/TC-3815(2).webp"
+      ],
+      "brand": "HOUS",
+      "name": "TC 815",
+      "price": 16500000,
+      "description": "",
+      "specifications": [],
+      "quantity": 1,
+      "type": "Amplifier",
+      "nation": "China",
+      "slug": "HOUS-TC-3815",
       "status": true
     }
+
   ],
   "micro": [
     {
-      "id": "micro1",
-      "productimage": "https://nguyenkeo.github.io/MasterAudio/img/4-acoustic/Subwoofer-PCS-318NB.png",
-      "productbrand": "4 Acoustic",
-      "productname": "PCS 318NB",
-      "productprice": 65200000,
-      "productquantity": 1,
-      "type": "Subwoofer",
-      "nation": "gemany",
-      "slug": "4-Acoustic-PCS-318NB",
+      "id": "p7",
+      "image": "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/Baiervires/BS980/BS980(2).webp",
+      "thumbnail": [
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/Baiervires/BS980/BS980(2).webp"
+      ],
+      "brand": "Baiervires",
+      "name": "BS 980",
+      "price": 8900000,
+      "description": "",
+      "specifications": [],
+      "quantity": 1,
+      "type": "micro",
+      "nation": "China",
+      "slug": "Baiervires-BS980",
       "status": true
     }
   ],
   "auto-power": [
-    {
-      "id": "power1",
-      "productimage": "https://nguyenkeo.github.io/MasterAudio/img/4-acoustic/Subwoofer-PCS-318NB.png",
-      "productbrand": "4 Acoustic",
-      "productname": "PCS 318NB",
-      "productprice": 65200000,
-      "productquantity": 1,
-      "type": "Subwoofer",
-      "nation": "gemany",
-      "slug": "4-Acoustic-PCS-318NB",
-      "status": true
-    }
+   
   ],
   "test": [
     {
