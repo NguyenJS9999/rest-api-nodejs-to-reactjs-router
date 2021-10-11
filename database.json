@@ -562,8 +562,27 @@
       "nation": "China",
       "slug": "Kuledy-V110",
       "status": true
+    },
+    {
+      "id": "p17",
+      "image": "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/kuledy/Mid-low/Midlow-Kuledy-110s/110s(1).webp",
+      "thumbnail": [
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/kuledy/Mid-low/Midlow-Kuledy-110s/110s(1).webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/kuledy/Mid-low/Midlow-Kuledy-110s/110s(2).webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/kuledy/Mid-low/Midlow-Kuledy-110s/110s(3).webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/kuledy/Mid-low/Midlow-Kuledy-110s/110s(4).webp"
+      ],
+      "brand": "Kuledy",
+      "name": "V110S",
+      "price": 22000000,
+      "description": "Sản phẩm được sản xuất tại châu Âu",
+      "specifications": [],
+      "quantity": 1,
+      "type": "Mid Low",
+      "nation": "China",
+      "slug": "kuledy-v110s",
+      "status": true
     }
-
   ],
   
   "mixer": [
