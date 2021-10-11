@@ -82,7 +82,7 @@
         "https://github.com/NguyenKeo/MasterAudio/blob/main/img/adamson/full-range/point15/point15(4).jpg?raw=true"
       ],
       "brand": "Adamson",
-      "name": "Point15",
+      "name": "Point 15",
       "price": 99111000,
       "description": "Point 15 là chiếc loa có kích thước lớn nhất trong các dải sản phẩm thuộc Point Series của thương hiệu âm thanh Adamson. Với thông số SPL cao và tiếng bass dày đầy uy lực, sản phẩm này được thiết kế để bù lấp hoàn toàn khoảng cách giữa 2 thái cục - áp lực lớn và chất âm trong trẻo tinh tế - và trở thành sự lựa chọn hoàn hảo cho mọi cấu hình live band, DJs, và hệ thống âm thanh cỡ lớn. Point 15 có cả 2 phiên bản passive và active. Sử dụng ND15-L, cùng một loại củ loa với 2 sản phẩm nổi tiếng M15 và M215 - dòng sản phẩm thuộc M Series chuyên dùng cho monitor và nhạc mạnh của Adamson. Chiếc củ loa ND15-L mạnh mẽ đến độ đủ sức làm loa monitor cho nghệ sĩ trong một buổi diễn nhạc rock với sức chứa hơn 100,000 người. Vậy nên nó hoàn toàn đủ khả năng đáp ứng bất cứ nhu cầu sử dụng nào cho hầu hết mọi sân khấu trong nhà, dù là sử dụng làm hệ thống chính, hoặc làm loa bù cho cả một hệ thống thiết bị cho một nhà hát lớn. Kèm theo đó là củ loa tép 1.4” exit HF đi cùng bộ dẫn sóng Adamson với chất liệu fiberglass, mang đến cho chiếc loa này chất âm đẳng cấp không gì sánh được.",
       "specifications": [],
@@ -475,7 +475,7 @@
         "https://github.com/NguyenKeo/MasterAudio/blob/main/img/adamson/full-range/point15/point15(4).jpg?raw=true"
       ],
       "brand": "Adamson",
-      "name": "Point15",
+      "name": "Point 15",
       "price": 99111000,
       "description": "Point 15 là chiếc loa có kích thước lớn nhất trong các dải sản phẩm thuộc Point Series của thương hiệu âm thanh Adamson. Với thông số SPL cao và tiếng bass dày đầy uy lực, sản phẩm này được thiết kế để bù lấp hoàn toàn khoảng cách giữa 2 thái cục - áp lực lớn và chất âm trong trẻo tinh tế - và trở thành sự lựa chọn hoàn hảo cho mọi cấu hình live band, DJs, và hệ thống âm thanh cỡ lớn. Point 15 có cả 2 phiên bản passive và active. Sử dụng ND15-L, cùng một loại củ loa với 2 sản phẩm nổi tiếng M15 và M215 - dòng sản phẩm thuộc M Series chuyên dùng cho monitor và nhạc mạnh của Adamson. Chiếc củ loa ND15-L mạnh mẽ đến độ đủ sức làm loa monitor cho nghệ sĩ trong một buổi diễn nhạc rock với sức chứa hơn 100,000 người. Vậy nên nó hoàn toàn đủ khả năng đáp ứng bất cứ nhu cầu sử dụng nào cho hầu hết mọi sân khấu trong nhà, dù là sử dụng làm hệ thống chính, hoặc làm loa bù cho cả một hệ thống thiết bị cho một nhà hát lớn. Kèm theo đó là củ loa tép 1.4” exit HF đi cùng bộ dẫn sóng Adamson với chất liệu fiberglass, mang đến cho chiếc loa này chất âm đẳng cấp không gì sánh được.",
       "specifications": [],
@@ -485,7 +485,8 @@
       "slug": "Adamson-Point-15",
       "status": true
     },
-    {
+    { 
+      "id": "p16",
       "image": "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/adamson/Line-array/CS10n/CS10n(1).png",
       "thumbnail": [
         "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/adamson/Line-array/CS10n/CS10n(1).png",
