@@ -173,7 +173,7 @@
         "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/hous/Hous-TC-3815/TC-3815/TC-3815(2).webp"
       ],
       "brand": "HOUS",
-      "name": "TC 815",
+      "name": "TC 3815",
       "price": 16500000,
       "description": "",
       "specifications": [],
@@ -318,7 +318,7 @@
       "description": "Sản phẩm được sản xuất tại châu Âu",
       "specifications": [],
       "quantity": 1,
-      "type": "amplyfier",
+      "type": "Amplyfier",
       "nation": "Germany",
       "slug": "4-Acoustic-SX-25000",
       "status": true
@@ -708,6 +708,26 @@
       "type": "Amplifier",
       "nation": "China",
       "slug": "HOUS-TC-3815",
+      "status": true
+    },
+    {
+      "id": "p15",
+      "image": "https://github.com/NguyenKeo/MasterAudio/blob/main/img/4-acoustic/amplyfier/SX-25000/SX-01-1200-400px.png?raw=true",
+      "thumbnail": [
+        "https://github.com/NguyenKeo/MasterAudio/blob/main/img/4-acoustic/amplyfier/SX-25000/SX-01-1200-400px.png?raw=true",
+        "https://github.com/NguyenKeo/MasterAudio/blob/main/img/4-acoustic/amplyfier/SX-25000/SX-02-1200-400px.png?raw=true",
+        "https://github.com/NguyenKeo/MasterAudio/blob/main/img/4-acoustic/amplyfier/SX-25000/SX-03-1200-400px.png?raw=true",
+        "https://github.com/NguyenKeo/MasterAudio/blob/main/img/4-acoustic/amplyfier/SX-25000/SX-04-1200-400px.png?raw=true"
+      ],
+      "brand": "4 Acoustic",
+      "name": "SX 25000",
+      "price": 85800000,
+      "description": "Sản phẩm được sản xuất tại châu Âu",
+      "specifications": [],
+      "quantity": 1,
+      "type": "Amplyfier",
+      "nation": "Germany",
+      "slug": "4-Acoustic-SX-25000",
       "status": true
     }
 
