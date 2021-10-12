@@ -494,7 +494,7 @@
       ],
       "brand": "Subwoofer",
       "name": "STM S118",
-      "price": 85800000,
+      "price": 120000000,
       "description": "MODULE SUB STM S118 Thùng loa siêu trầm có trình điều khiển Neodymium high excursion 3000W 18 ″. Tải thông dải đảm bảo đầu ra SPL tương đương với các âm trầm kép 18 inch thông thường. Có cùng chiều rộng, gấp đôi chiều cao của tủ chính M46, gấp đôi chiều cao của tủ chính nên S118 có thể được bay theo mảng hoặc xếp chồng lên nhau trên mặt đất. Có thể chạy ở chế độ phụ đa hướng hoặc trợ tim. 118 có tính năng gian lận PistonRigTM và REDLockTM cải tiến, cho phép mọi kích thước của hệ thống đều được một người bay an toàn. Tay cầm REDLockTM khóa các điểm gian lận phía trước từ phía sau tủ. Tất cả các điều chỉnh được thực hiện từ một vị trí ở phía sau của cụm.",
       "specifications": [],
       "quantity": 1,
@@ -505,62 +505,62 @@
     },
     {
       "id": "p25",
-      "image": " ",
+      "image": "https://github.com/NguyenKeo/MasterAudio/blob/main/img/Baiervires/BS9100/BS9100(1).webp",
       "thumbnail": [
-        " ",
-        " ",
-        " ",
-        " "
+        "https://github.com/NguyenKeo/MasterAudio/blob/main/img/Baiervires/BS9100/BS9100(1).webp",
+        "https://github.com/NguyenKeo/MasterAudio/blob/main/img/Baiervires/BS9100/BS9100(2).webp",
+        "https://github.com/NguyenKeo/MasterAudio/blob/main/img/Baiervires/BS9100/BS9100(3).webp",
+        "https://github.com/NguyenKeo/MasterAudio/blob/main/img/Baiervires/BS9100/BS9100(4).webp"
       ],
-      "brand": " ",
-      "name": " ",
+      "brand": "Baiervires",
+      "name": "BS9100",
       "price": 85800000,
-      "description": "Sản phẩm được sản xuất tại châu Âu",
+      "description": "Micro Baier BS9100 là phiên bản mới nhất năm 2021 của hãng Baiervires vừa ra mắt tháng 4/2021 cùng với vô vàn cải tiến về ngoại hình và chất lượng sản phẩm. Với nhu cầu giải trí hát karaoke đòi hỏi chất lượng cũng như các tính năng cao cấp của các sản phẩm âm thanh hiện nay PRO Sound Việt Nam đã được hãng Baier ưu ái lựa chọn phân phối dòng micro BS9100 cao cấp này tại thị trường Việt Nam.",
       "specifications": [],
       "quantity": 1,
-      "type": " ",
-      "nation": " ",
-      "slug": " ",
+      "type": "Micro",
+      "nation": "China",
+      "slug": "Micro-Baiervires-BS9100",
       "status": true
     },
     {
       "id": "p26",
-      "image": " ",
+      "image": "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/Baiervires/BS970/BS970(1).webp",
       "thumbnail": [
-        " ",
-        " ",
-        " ",
-        " "
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/Baiervires/BS970/BS970(1).webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/Baiervires/BS970/BS970(2).webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/Baiervires/BS970/BS970(3).webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/Baiervires/BS970/BS970(4).webp"
       ],
-      "brand": " ",
-      "name": " ",
-      "price": 85800000,
-      "description": "Sản phẩm được sản xuất tại châu Âu",
+      "brand": "Baiervires",
+      "name": "BS970",
+      "price":  8100000,
+      "description": "",
       "specifications": [],
       "quantity": 1,
-      "type": " ",
-      "nation": " ",
-      "slug": " ",
+      "type": "Micro",
+      "nation": "China",
+      "slug": "Micro-Baiervires-BS970",
       "status": true
     },
     {
       "id": "p27",
-      "image": " ",
+      "image": "https://github.com/NguyenKeo/MasterAudio/blob/main/img/Baiervires/BS980/BS980(1).webp",
       "thumbnail": [
-        " ",
-        " ",
-        " ",
-        " "
+        "https://github.com/NguyenKeo/MasterAudio/blob/main/img/Baiervires/BS980/BS980(1).webp",
+        "https://github.com/NguyenKeo/MasterAudio/blob/main/img/Baiervires/BS980/BS980(2).webp",
+        "https://github.com/NguyenKeo/MasterAudio/blob/main/img/Baiervires/BS980/BS980(3).webp",
+        "https://github.com/NguyenKeo/MasterAudio/blob/main/img/Baiervires/BS980/BS980(4).webp"
       ],
-      "brand": " ",
-      "name": " ",
-      "price": 85800000,
-      "description": "Sản phẩm được sản xuất tại châu Âu",
+      "brand": "Baiervires ",
+      "name": "BS780S",
+      "price": 5700000,
+      "description": "Đặc điểm nổi bật trong thiết kế micro Baiervies BS780S. Một bộ micro Baiervies BS780S chính hãng bao gồm 1 đầu thu và 2 tay micro. Đi kèm bao gồm rất nhiều phụ kiện tiêu chuẩn như ăng-ten, jack, dây nguồn,... Tất cả được sắp xếp ngăn nắp trong hộp. Đầu thu được thiết kế với các đường nét mềm mại. Sử dụng tone màu đen, bạc làm chủ đạo toát lên vẻ sang trọng, hiện đại của thiết kế. Hơn nữa đầu thu còn được trang bị bởi màn hình LCD hiển thị sắc nét các thông số, cùng các nút điều khiển cực nhạy, giúp người dùng dễ dàng điều chỉnh.",
       "specifications": [],
       "quantity": 1,
-      "type": " ",
-      "nation": " ",
-      "slug": " ",
+      "type": "Micro",
+      "nation": "China",
+      "slug": "Micro-Baiervires-BS780S",
       "status": true
     },
     {
@@ -573,7 +573,7 @@
         " "
       ],
       "brand": " ",
-      "name": " ",
+      "name": "Amate TPD",
       "price": 85800000,
       "description": "Sản phẩm được sản xuất tại châu Âu",
       "specifications": [],
@@ -914,7 +914,30 @@
       "nation": "Germany",
       "slug": "4-Acoustic-SX-25000",
       "status": true
+    },
+    {
+      "id": "p22",
+      "image": "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/nexo/amplifier/nxamp4x4(1).webp",
+      "thumbnail": [
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/nexo/amplifier/nxamp4x4(1).webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/nexo/amplifier/nxamp4x4(2).webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/nexo/amplifier/nxamp4x4(3).webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/nexo/amplifier/nxamp4x4(4).webp"
+      ],
+      "brand": "Nexo",
+      "name": "NXAMP 4x4",
+      "price": 255444000,
+      "description": "Sự nén thả bởi công nghệ (EEEngine) của Yamaha, mang lại độ tinh khiết cho âm thanh của kiểu AB thông thường, nhưng tản nhiệt ngang với kiểu D. Không chỉ hệ DSP lõi kép đang chăm sóc và bảo vệ tối ưu hóa bộ khuếch đại và loa, nhưng cũng xác định được tiêu chuẩn xử lý của công nghệ quản lý loa độc quyền của NEXO. Trở thành hiệu suất âm thanh có mức độ tin cậy cao hơn. Cùng với các tính năng hữu ích như vận hành bảng điều khiển phía trước, khi không có máy tính, trên louspeaker độc lập, Lựa chọn bằng tay trên mỗi đầu ra hoặc máng theo dõi tải GPIO, hoặc mạng Ethersound ™ / AES / EBU / Dante ™ để cài đặt an toàn, NXAMP4x4 là lý tưởng cho nhiều ứng dụng đòi hỏi khắt khe .",
+      "specifications": [],
+      "quantity": 1,
+      "type": "Amplyfier",
+      "nation": "France",
+      "slug": "Nexo-NXAMP-4x4",
+      "status": true
     }
+
+
+
 
   ],
   "micro": [
