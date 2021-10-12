@@ -68,7 +68,7 @@
       "specifications": [],
       "quantity": 1,
       "type": "Full range",
-      "nation": "French",
+      "nation": "France",
       "slug": "Nexo-PS-15",
       "status": true
     },
@@ -339,7 +339,7 @@
       "specifications": [],
       "quantity": 1,
       "type": "Line Array",
-      "nation": "Spain",
+      "nation": "Canada",
       "slug": "Adamson-CS-10N",
       "status": true
     },
@@ -442,6 +442,186 @@
       "nation": "USA",
       "slug": "Allen-Heath-AVANTIS",
       "status": true
+    },
+    {
+      "id": "p22",
+      "image": "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/nexo/amplifier/nxamp4x4(1).webp",
+      "thumbnail": [
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/nexo/amplifier/nxamp4x4(1).webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/nexo/amplifier/nxamp4x4(2).webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/nexo/amplifier/nxamp4x4(3).webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/nexo/amplifier/nxamp4x4(4).webp"
+      ],
+      "brand": "Nexo",
+      "name": "NXAMP 4x4",
+      "price": 255444000,
+      "description": "Sự nén thả bởi công nghệ (EEEngine) của Yamaha, mang lại độ tinh khiết cho âm thanh của kiểu AB thông thường, nhưng tản nhiệt ngang với kiểu D. Không chỉ hệ DSP lõi kép đang chăm sóc và bảo vệ tối ưu hóa bộ khuếch đại và loa, nhưng cũng xác định được tiêu chuẩn xử lý của công nghệ quản lý loa độc quyền của NEXO. Trở thành hiệu suất âm thanh có mức độ tin cậy cao hơn. Cùng với các tính năng hữu ích như vận hành bảng điều khiển phía trước, khi không có máy tính, trên louspeaker độc lập, Lựa chọn bằng tay trên mỗi đầu ra hoặc máng theo dõi tải GPIO, hoặc mạng Ethersound ™ / AES / EBU / Dante ™ để cài đặt an toàn, NXAMP4x4 là lý tưởng cho nhiều ứng dụng đòi hỏi khắt khe .",
+      "specifications": [],
+      "quantity": 1,
+      "type": "Amplyfier",
+      "nation": "France",
+      "slug": "Nexo-NXAMP-4x4",
+      "status": true
+    },
+    {
+      "id": "p23",
+      "image": "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/nexo/Line-array/M46/stm-M46(1).webp",
+      "thumbnail": [
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/nexo/Line-array/M46/stm-M46(1).webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/nexo/Line-array/M46/stm-M46(2).webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/nexo/Line-array/M46/stm-M46(3).webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/nexo/Line-array/M46/stm-M46(4).webp"
+      ],
+      "brand": "Nexo",
+      "name": "STM M46",
+      "price": 86000000,
+      "description": "Tủ công suất cao đúc phun với các thành phần cải tiến để nâng cao hiệu suất. Các trình điều khiển màng phẳng đảm bảo độ phủ hoàn toàn đồng đều và toàn dải trên toàn bộ phân tán ngang 90 °. Dải tần số HF vẫn hoàn toàn tuyến tính, sử dụng màng chắn Ketone Polymer giúp tăng cường phản ứng âm và ném xa. M46 có tính năng gian lận PistonRigTM và REDLockTM cải tiến, cho phép mọi kích thước của hệ thống đều được một người bay an toàn. Tay cầm REDLockTM khóa các điểm gian lận phía trước từ phía sau tủ. Tất cả các điều chỉnh được thực hiện từ một vị trí ở phía sau của cụm.",
+      "specifications": [],
+      "quantity": 1,
+      "type": "Line array",
+      "nation": "France",
+      "slug": "Nexo-STM-M46",
+      "status": true
+    },
+    {
+      "id": "p24",
+      "image": "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/nexo/subwoofer/STM-S118/STM118(1).webp",
+      "thumbnail": [
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/nexo/subwoofer/STM-S118/STM118(1).webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/nexo/subwoofer/STM-S118/STM118(2).webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/nexo/subwoofer/STM-S118/STM118(3).webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/nexo/subwoofer/STM-S118/STM118(4).webp"
+      ],
+      "brand": "Subwoofer",
+      "name": "STM S118",
+      "price": 85800000,
+      "description": "MODULE SUB STM S118 Thùng loa siêu trầm có trình điều khiển Neodymium high excursion 3000W 18 ″. Tải thông dải đảm bảo đầu ra SPL tương đương với các âm trầm kép 18 inch thông thường. Có cùng chiều rộng, gấp đôi chiều cao của tủ chính M46, gấp đôi chiều cao của tủ chính nên S118 có thể được bay theo mảng hoặc xếp chồng lên nhau trên mặt đất. Có thể chạy ở chế độ phụ đa hướng hoặc trợ tim. 118 có tính năng gian lận PistonRigTM và REDLockTM cải tiến, cho phép mọi kích thước của hệ thống đều được một người bay an toàn. Tay cầm REDLockTM khóa các điểm gian lận phía trước từ phía sau tủ. Tất cả các điều chỉnh được thực hiện từ một vị trí ở phía sau của cụm.",
+      "specifications": [],
+      "quantity": 1,
+      "type": " ",
+      "nation": "France",
+      "slug": "subwoofer-nexo-stm-s118",
+      "status": true
+    },
+    {
+      "id": "p25",
+      "image": " ",
+      "thumbnail": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "brand": " ",
+      "name": " ",
+      "price": 85800000,
+      "description": "Sản phẩm được sản xuất tại châu Âu",
+      "specifications": [],
+      "quantity": 1,
+      "type": " ",
+      "nation": " ",
+      "slug": " ",
+      "status": true
+    },
+    {
+      "id": "p26",
+      "image": " ",
+      "thumbnail": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "brand": " ",
+      "name": " ",
+      "price": 85800000,
+      "description": "Sản phẩm được sản xuất tại châu Âu",
+      "specifications": [],
+      "quantity": 1,
+      "type": " ",
+      "nation": " ",
+      "slug": " ",
+      "status": true
+    },
+    {
+      "id": "p27",
+      "image": " ",
+      "thumbnail": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "brand": " ",
+      "name": " ",
+      "price": 85800000,
+      "description": "Sản phẩm được sản xuất tại châu Âu",
+      "specifications": [],
+      "quantity": 1,
+      "type": " ",
+      "nation": " ",
+      "slug": " ",
+      "status": true
+    },
+    {
+      "id": "p28",
+      "image": " ",
+      "thumbnail": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "brand": " ",
+      "name": " ",
+      "price": 85800000,
+      "description": "Sản phẩm được sản xuất tại châu Âu",
+      "specifications": [],
+      "quantity": 1,
+      "type": " ",
+      "nation": " ",
+      "slug": " ",
+      "status": true
+    },
+    {
+      "id": "p29",
+      "image": " ",
+      "thumbnail": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "brand": " ",
+      "name": " ",
+      "price": 85800000,
+      "description": "Sản phẩm được sản xuất tại châu Âu",
+      "specifications": [],
+      "quantity": 1,
+      "type": " ",
+      "nation": " ",
+      "slug": " ",
+      "status": true
+    },
+    {
+      "id": "p30",
+      "image": " ",
+      "thumbnail": [
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "brand": " ",
+      "name": " ",
+      "price": 85800000,
+      "description": "Sản phẩm được sản xuất tại châu Âu",
+      "specifications": [],
+      "quantity": 1,
+      "type": " ",
+      "nation": " ",
+      "slug": " ",
+      "status": true
     }
 
 
@@ -465,7 +645,7 @@
       "specifications": [],
       "quantity": 1,
       "type": "Full range",
-      "nation": "French",
+      "nation": "France",
       "slug": "Nexo-PS-15",
       "status": true
     },
@@ -525,7 +705,7 @@
       "specifications": [],
       "quantity": 1,
       "type": "Line Array",
-      "nation": "Spain",
+      "nation": "Canada",
       "slug": "Adamson-CS-10N",
       "status": true
     }
@@ -690,6 +870,11 @@
       "slug": "Allen-Heath-AVANTIS",
       "status": true
     }
+
+
+
+
+
   ],
   "amplifier": [
     {
