@@ -682,6 +682,26 @@
       "nation": "China",
       "slug": "auto-power-p102",
       "status": true
+    },
+    {
+      "id": "p34",
+      "image": "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/hous/Hous-TC-3815/A-One1/A-One1(1).webp",
+      "thumbnail": [
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/hous/Hous-TC-3815/A-One1/A-One1(1).webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/hous/Hous-TC-3815/A-One1/A-One1(2).webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/hous/Hous-TC-3815/A-One1/A-One1(3).webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/hous/Hous-TC-3815/A-One1/A-One1(4).webp"
+      ],
+      "brand": "Hous",
+      "name": "A One1",
+      "price": 24500000,
+      "description": "A One I mang một thiết kế vô cùng hầm hố và khỏe khoắn với các đường nét hình cong ở mắt trước và kích thước đồ sộ hơn so với những cục đẩy công suất khác, mang lại sự sang trọng, chắc chắn cho sản phẩm.      Núm vặn, công tắc nguồn, hệ thống đèn LED được đặt ở chính giữa cục đẩy cùng với các ô thoáng, nhưng điều tuyệt vời hơn là đằng sau những ô thoáng có thêm mặt lưới giúp bảo vệ cục đẩy khỏi các tác nhân bên ngoài như bụi bẩn. Mặt sau được thiết kế tối giản với 2 cổng input bằng jack Canon và 2 cổng output bằng jack Neutrick và các nút gạt chuyển đổi tín hiệu giúp người dùng dễ dàng lắp đặt. Hệ thống tản nhiệt gồm 2 quạt gió tự động điều chỉnh tốc độ giúp công suất hoạt động bền bỉ hơn.",
+      "specifications": [],
+      "quantity": 1,
+      "type": "Amplyfier",
+      "nation": "China",
+      "slug": "Hous-A-One1",
+      "status": true
     }
 
 
@@ -936,6 +956,7 @@
 
 
   ],
+
   "amplifier": [
     {
       "id": "p8",
@@ -994,8 +1015,29 @@
       "nation": "France",
       "slug": "Nexo-NXAMP-4x4",
       "status": true
+    },
+    {
+      "id": "p34",
+      "image": "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/hous/Hous-TC-3815/A-One1/A-One1(1).webp",
+      "thumbnail": [
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/hous/Hous-TC-3815/A-One1/A-One1(1).webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/hous/Hous-TC-3815/A-One1/A-One1(2).webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/hous/Hous-TC-3815/A-One1/A-One1(3).webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/hous/Hous-TC-3815/A-One1/A-One1(4).webp"
+      ],
+      "brand": "Hous",
+      "name": "A One1",
+      "price": 24500000,
+      "description": "A One I mang một thiết kế vô cùng hầm hố và khỏe khoắn với các đường nét hình cong ở mắt trước và kích thước đồ sộ hơn so với những cục đẩy công suất khác, mang lại sự sang trọng, chắc chắn cho sản phẩm.      Núm vặn, công tắc nguồn, hệ thống đèn LED được đặt ở chính giữa cục đẩy cùng với các ô thoáng, nhưng điều tuyệt vời hơn là đằng sau những ô thoáng có thêm mặt lưới giúp bảo vệ cục đẩy khỏi các tác nhân bên ngoài như bụi bẩn. Mặt sau được thiết kế tối giản với 2 cổng input bằng jack Canon và 2 cổng output bằng jack Neutrick và các nút gạt chuyển đổi tín hiệu giúp người dùng dễ dàng lắp đặt. Hệ thống tản nhiệt gồm 2 quạt gió tự động điều chỉnh tốc độ giúp công suất hoạt động bền bỉ hơn.",
+      "specifications": [],
+      "quantity": 1,
+      "type": "Amplyfier",
+      "nation": "China",
+      "slug": "Hous-A-One1",
+      "status": true
     }
   ],
+
   "micro": [
     {
       "id": "p7",
@@ -1075,6 +1117,7 @@
       "status": true
     }
   ],
+
   "auto-power": [
     {
       "id": "p30",
@@ -1093,10 +1136,71 @@
       "quantity": 1,
       "type": "Auto power",
       "nation": "China",
-      "slug": "Kuledy-X-108",
+      "slug": "auto-power-kuledy-x-108",
+      "status": true
+    },
+    {
+      "id": "p31",
+      "image": "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/dBacoustic/auto-power/P102Pro/P102Pro(1).webp",
+      "thumbnail": [
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/dBacoustic/auto-power/P102Pro/P102Pro(1).webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/dBacoustic/auto-power/P102Pro/P102Pro(2).webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/dBacoustic/auto-power/P102Pro/P102Pro(3).webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/dBacoustic/auto-power/P102Pro/P102Pro(4).webp"
+      ],
+      "brand": "dBacoustic",
+      "name": "P102 PRO",
+      "price": 2650000,
+      "description": "Quản lý nguồn dB acoustic P102 Pro là dòng quản lí nguồn cao cấp của hãng Dbacoustic, được sản xuất trên dây truyền hiện đại với những linh kiện cao cấp cho độ bền cao",
+      "specifications": [],
+      "quantity": 1,
+      "type": "Auto power",
+      "nation": "China",
+      "slug": "auto-power-p102-pro",
+      "status": true
+    },
+    {
+      "id": "p32",
+      "image": "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/dBacoustic/auto-power/P9Pro/P9Pro(1).webp",
+      "thumbnail": [
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/dBacoustic/auto-power/P9Pro/P9Pro(1).webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/dBacoustic/auto-power/P9Pro/P9Pro(2).webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/dBacoustic/auto-power/P9Pro/P9Pro(3).webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/dBacoustic/auto-power/P9Pro/P9Pro(4).webp"
+      ],
+      "brand": "dBacoustic",
+      "name": "P9 Pro",
+      "price": 1900000 ,
+      "description": "Quản lý nguồn là thiết bị it ai quan tâm nhưng nó vô cùng quan trọng. Giúp bảo vệ hệ thống ổn định và tăng tuổi thọ cho hệ thống. QLN Db  P9 Pro được nâng cấp từ bản P9 thường. Với thiết kế đẹp hơn, tinh tế hơn, và rất dễ sử dụng.",
+      "specifications": [],
+      "quantity": 1,
+      "type": "Auto power",
+      "nation": "China",
+      "slug": "auto-power-P9-Pro",
+      "status": true
+    },
+    {
+      "id": "p33",
+      "image": "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/dBacoustic/auto-power/P9/p9(1).webp",
+      "thumbnail": [
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/dBacoustic/auto-power/P9/p9(1).webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/dBacoustic/auto-power/P9/p9(1).webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/dBacoustic/auto-power/P9/p9(1).webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/dBacoustic/auto-power/P9/p9(1).webp"
+      ],
+      "brand": "dBacoustic",
+      "name": "P9",
+      "price": 1600000,
+      "description": "Chia nguồn P9 thiết bị không thể thiếu cho thiết bị audio chuyên nghiệp. Bộ Chia nguồn là thiết bị it ai quan tâm nhưng nó vô cùng quan trọng, giúp bảo vệ hệ thống ổn định và tăng tuổi thọ cho hệ thống audio. Hiện nay trên thị trường có rất nhiều chia nguồn như chia nguồn dB Acoustic, APC… với chất lượng tốt và giá cả tốt nhất thì chia nguồn db Acoustic là sự lựa chọn rất tuyệt vời cho anh em audio. Linh kiện cao cấp kèm lọc nguồn cho từng kênh riêng biệt",
+      "specifications": [],
+      "quantity": 1,
+      "type": "Auto power",
+      "nation": "China",
+      "slug": "auto-power-p102",
       "status": true
     }
   ],
+  
   "test": [
     {
       "id": " ",
