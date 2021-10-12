@@ -318,7 +318,7 @@
       "description": "Sản phẩm được sản xuất tại châu Âu",
       "specifications": [],
       "quantity": 1,
-      "type": "Amplyfier",
+      "type": "Amplifier",
       "nation": "Germany",
       "slug": "4-Acoustic-SX-25000",
       "status": true
@@ -458,7 +458,7 @@
       "description": "Sự nén thả bởi công nghệ (EEEngine) của Yamaha, mang lại độ tinh khiết cho âm thanh của kiểu AB thông thường, nhưng tản nhiệt ngang với kiểu D. Không chỉ hệ DSP lõi kép đang chăm sóc và bảo vệ tối ưu hóa bộ khuếch đại và loa, nhưng cũng xác định được tiêu chuẩn xử lý của công nghệ quản lý loa độc quyền của NEXO. Trở thành hiệu suất âm thanh có mức độ tin cậy cao hơn. Cùng với các tính năng hữu ích như vận hành bảng điều khiển phía trước, khi không có máy tính, trên louspeaker độc lập, Lựa chọn bằng tay trên mỗi đầu ra hoặc máng theo dõi tải GPIO, hoặc mạng Ethersound ™ / AES / EBU / Dante ™ để cài đặt an toàn, NXAMP4x4 là lý tưởng cho nhiều ứng dụng đòi hỏi khắt khe .",
       "specifications": [],
       "quantity": 1,
-      "type": "Amplyfier",
+      "type": "Amplifier",
       "nation": "France",
       "slug": "Nexo-NXAMP-4x4",
       "status": true
@@ -565,62 +565,122 @@
     },
     {
       "id": "p28",
-      "image": " ",
+      "image": "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/amate/amplifier/TPD-P6467/TPD%20P6467(1).webp",
       "thumbnail": [
-        " ",
-        " ",
-        " ",
-        " "
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/amate/amplifier/TPD-P6467/TPD%20P6467(1).webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/amate/amplifier/TPD-P6467/TPD%20P6467(2).webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/amate/amplifier/TPD-P6467/TPD%20P6467(3).webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/amate/amplifier/TPD-P6467/TPD%20P6467(4).webp"
       ],
-      "brand": " ",
-      "name": "Amate TPD",
-      "price": 85800000,
-      "description": "Sản phẩm được sản xuất tại châu Âu",
+      "brand": "Amate",
+      "name": "TPD P6467",
+      "price": 52500000,
+      "description": "Chỉ với một thiết bị duy nhất, TPD có thể thỏa mãn nhu cầu sử dụng cho một hệ thống âm thanh cỡ nhỏ bao gồm L&R, một kênh công suất dành cho loa Subwoofer và tín hiệu active để chạy cùng hệ thống âm thanh. Sản phẩm TPD đã tiến thêm một bước dài so với công nghệ thời trước (với D đại diện cho Kỹ thuật số Digital), là sự tổng hợp của khái niệm Digital Signal Processing, Class D, và Switched-Mode Power Supply; khiến TPD trở nên hiệu quả, chính xác, dễ dàng sử dụng, và được người sử dụng tuyệt đối tin dùng.",
       "specifications": [],
       "quantity": 1,
-      "type": " ",
-      "nation": " ",
-      "slug": " ",
+      "type": "Amplifier",
+      "nation": "Spain",
+      "slug": "Amplifier-Amate-TPD-P6467",
       "status": true
     },
     {
       "id": "p29",
-      "image": " ",
+      "image": "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/amate/amplifier/HD4000/HD4000(1).webp",
       "thumbnail": [
-        " ",
-        " ",
-        " ",
-        " "
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/amate/amplifier/HD4000/HD4000(1).webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/amate/amplifier/HD4000/HD4000(2).webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/amate/amplifier/HD4000/HD4000(3).webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/amate/amplifier/HD4000/HD4000(4).webp"
       ],
-      "brand": " ",
-      "name": " ",
-      "price": 85800000,
-      "description": "Sản phẩm được sản xuất tại châu Âu",
+      "brand": "Amate",
+      "name": "HD4000",
+      "price": 37000000,
+      "description": "HD4000 là sản phẩm âm ly chuyên nghiệp của hãng AMATE, sử dụng công nghệ Class H và có thể đạt đến công suất 4000 W khi Bridge ở trở kháng 4Ω, được thiết kế kích thước 2U vô cùng phù hợp với các hệ thống lắp đặt cố định. HD4000 tích hợp mạch soft-start với tăng âm định mức, limit clip, kèm các tính năng bảo vệ khác như kiểm soát nhiệt độ, chống xung điện, đầu ra DC và chống chập đầu ra.",
       "specifications": [],
       "quantity": 1,
-      "type": " ",
-      "nation": " ",
-      "slug": " ",
-      "status": true
+      "type": "Amplifier",
+      "nation": "Spain",
+      "slug": "Amplifier-Amate-HD4000",
+      "status": false
     },
     {
       "id": "p30",
-      "image": " ",
+      "image": "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/kuledy/auto-power/X-108(1).webp",
       "thumbnail": [
-        " ",
-        " ",
-        " ",
-        " "
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/kuledy/auto-power/X-108(1).webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/kuledy/auto-power/X-108(2).webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/kuledy/auto-power/X-108(3).webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/kuledy/auto-power/X-108(4).webp"
       ],
-      "brand": " ",
-      "name": " ",
-      "price": 85800000,
-      "description": "Sản phẩm được sản xuất tại châu Âu",
+      "brand": "Kuledy",
+      "name": "X108",
+      "price": 3490000,
+      "description": "Bộ điều khiển trình tự nguồn Kuledy X-108 là thiết bị thiết yếu trong bất kỳ hệ thống phát sóng TV, hệ thống máy tính, hệ thống điện khác và đặc biệt là hệ thống âm thanh. Kuledy X-108 đáp ứng nhu cầu của các dự án hiện nay, dễ vận hành và hàng tấn lợi thế vượt trội. Nó có màn hình LCD màu 2 inch hiển thị chính xác mức điện áp hiện tại. Và nó được thêm một công tắc để giữ cho 8 đường ra cắm điện không bị kiểm soát trong trường hợp khẩn cấp.",
       "specifications": [],
       "quantity": 1,
-      "type": " ",
-      "nation": " ",
-      "slug": " ",
+      "type": "Auto power",
+      "nation": "China",
+      "slug": "auto-power-kuledy-x-108",
+      "status": true
+    },
+    {
+      "id": "p31",
+      "image": "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/dBacoustic/auto-power/P102Pro/P102Pro(1).webp",
+      "thumbnail": [
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/dBacoustic/auto-power/P102Pro/P102Pro(1).webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/dBacoustic/auto-power/P102Pro/P102Pro(2).webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/dBacoustic/auto-power/P102Pro/P102Pro(3).webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/dBacoustic/auto-power/P102Pro/P102Pro(4).webp"
+      ],
+      "brand": "dBacoustic",
+      "name": "P102 PRO",
+      "price": 2650000,
+      "description": "Quản lý nguồn dB acoustic P102 Pro là dòng quản lí nguồn cao cấp của hãng Dbacoustic, được sản xuất trên dây truyền hiện đại với những linh kiện cao cấp cho độ bền cao",
+      "specifications": [],
+      "quantity": 1,
+      "type": "Auto power",
+      "nation": "China",
+      "slug": "auto-power-p102-pro",
+      "status": true
+    },
+    {
+      "id": "p32",
+      "image": "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/dBacoustic/auto-power/P9Pro/P9Pro(1).webp",
+      "thumbnail": [
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/dBacoustic/auto-power/P9Pro/P9Pro(1).webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/dBacoustic/auto-power/P9Pro/P9Pro(2).webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/dBacoustic/auto-power/P9Pro/P9Pro(3).webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/dBacoustic/auto-power/P9Pro/P9Pro(4).webp"
+      ],
+      "brand": "dBacoustic",
+      "name": "P9 Pro",
+      "price": 1900000 ,
+      "description": "Quản lý nguồn là thiết bị it ai quan tâm nhưng nó vô cùng quan trọng. Giúp bảo vệ hệ thống ổn định và tăng tuổi thọ cho hệ thống. QLN Db  P9 Pro được nâng cấp từ bản P9 thường. Với thiết kế đẹp hơn, tinh tế hơn, và rất dễ sử dụng.",
+      "specifications": [],
+      "quantity": 1,
+      "type": "Auto power",
+      "nation": "China",
+      "slug": "auto-power-P9-Pro",
+      "status": true
+    },
+    {
+      "id": "p33",
+      "image": "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/dBacoustic/auto-power/P9/p9(1).webp",
+      "thumbnail": [
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/dBacoustic/auto-power/P9/p9(1).webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/dBacoustic/auto-power/P9/p9(1).webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/dBacoustic/auto-power/P9/p9(1).webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/dBacoustic/auto-power/P9/p9(1).webp"
+      ],
+      "brand": "dBacoustic",
+      "name": "P9",
+      "price": 1600000,
+      "description": "Chia nguồn P9 thiết bị không thể thiếu cho thiết bị audio chuyên nghiệp. Bộ Chia nguồn là thiết bị it ai quan tâm nhưng nó vô cùng quan trọng, giúp bảo vệ hệ thống ổn định và tăng tuổi thọ cho hệ thống audio. Hiện nay trên thị trường có rất nhiều chia nguồn như chia nguồn dB Acoustic, APC… với chất lượng tốt và giá cả tốt nhất thì chia nguồn db Acoustic là sự lựa chọn rất tuyệt vời cho anh em audio. Linh kiện cao cấp kèm lọc nguồn cho từng kênh riêng biệt",
+      "specifications": [],
+      "quantity": 1,
+      "type": "Auto power",
+      "nation": "China",
+      "slug": "auto-power-p102",
       "status": true
     }
 
@@ -910,7 +970,7 @@
       "description": "Sản phẩm được sản xuất tại châu Âu",
       "specifications": [],
       "quantity": 1,
-      "type": "Amplyfier",
+      "type": "Amplifier",
       "nation": "Germany",
       "slug": "4-Acoustic-SX-25000",
       "status": true
@@ -930,15 +990,11 @@
       "description": "Sự nén thả bởi công nghệ (EEEngine) của Yamaha, mang lại độ tinh khiết cho âm thanh của kiểu AB thông thường, nhưng tản nhiệt ngang với kiểu D. Không chỉ hệ DSP lõi kép đang chăm sóc và bảo vệ tối ưu hóa bộ khuếch đại và loa, nhưng cũng xác định được tiêu chuẩn xử lý của công nghệ quản lý loa độc quyền của NEXO. Trở thành hiệu suất âm thanh có mức độ tin cậy cao hơn. Cùng với các tính năng hữu ích như vận hành bảng điều khiển phía trước, khi không có máy tính, trên louspeaker độc lập, Lựa chọn bằng tay trên mỗi đầu ra hoặc máng theo dõi tải GPIO, hoặc mạng Ethersound ™ / AES / EBU / Dante ™ để cài đặt an toàn, NXAMP4x4 là lý tưởng cho nhiều ứng dụng đòi hỏi khắt khe .",
       "specifications": [],
       "quantity": 1,
-      "type": "Amplyfier",
+      "type": "Amplifier",
       "nation": "France",
       "slug": "Nexo-NXAMP-4x4",
       "status": true
     }
-
-
-
-
   ],
   "micro": [
     {
@@ -957,10 +1013,89 @@
       "nation": "China",
       "slug": "Baiervires-BS980",
       "status": true
+    },
+    {
+      "id": "p25",
+      "image": "https://github.com/NguyenKeo/MasterAudio/blob/main/img/Baiervires/BS9100/BS9100(1).webp",
+      "thumbnail": [
+        "https://github.com/NguyenKeo/MasterAudio/blob/main/img/Baiervires/BS9100/BS9100(1).webp",
+        "https://github.com/NguyenKeo/MasterAudio/blob/main/img/Baiervires/BS9100/BS9100(2).webp",
+        "https://github.com/NguyenKeo/MasterAudio/blob/main/img/Baiervires/BS9100/BS9100(3).webp",
+        "https://github.com/NguyenKeo/MasterAudio/blob/main/img/Baiervires/BS9100/BS9100(4).webp"
+      ],
+      "brand": "Baiervires",
+      "name": "BS9100",
+      "price": 85800000,
+      "description": "Micro Baier BS9100 là phiên bản mới nhất năm 2021 của hãng Baiervires vừa ra mắt tháng 4/2021 cùng với vô vàn cải tiến về ngoại hình và chất lượng sản phẩm. Với nhu cầu giải trí hát karaoke đòi hỏi chất lượng cũng như các tính năng cao cấp của các sản phẩm âm thanh hiện nay PRO Sound Việt Nam đã được hãng Baier ưu ái lựa chọn phân phối dòng micro BS9100 cao cấp này tại thị trường Việt Nam.",
+      "specifications": [],
+      "quantity": 1,
+      "type": "Micro",
+      "nation": "China",
+      "slug": "Micro-Baiervires-BS9100",
+      "status": true
+    },
+    {
+      "id": "p26",
+      "image": "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/Baiervires/BS970/BS970(1).webp",
+      "thumbnail": [
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/Baiervires/BS970/BS970(1).webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/Baiervires/BS970/BS970(2).webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/Baiervires/BS970/BS970(3).webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/Baiervires/BS970/BS970(4).webp"
+      ],
+      "brand": "Baiervires",
+      "name": "BS970",
+      "price":  8100000,
+      "description": "",
+      "specifications": [],
+      "quantity": 1,
+      "type": "Micro",
+      "nation": "China",
+      "slug": "Micro-Baiervires-BS970",
+      "status": true
+    },
+    {
+      "id": "p27",
+      "image": "https://github.com/NguyenKeo/MasterAudio/blob/main/img/Baiervires/BS980/BS980(1).webp",
+      "thumbnail": [
+        "https://github.com/NguyenKeo/MasterAudio/blob/main/img/Baiervires/BS980/BS980(1).webp",
+        "https://github.com/NguyenKeo/MasterAudio/blob/main/img/Baiervires/BS980/BS980(2).webp",
+        "https://github.com/NguyenKeo/MasterAudio/blob/main/img/Baiervires/BS980/BS980(3).webp",
+        "https://github.com/NguyenKeo/MasterAudio/blob/main/img/Baiervires/BS980/BS980(4).webp"
+      ],
+      "brand": "Baiervires ",
+      "name": "BS780S",
+      "price": 5700000,
+      "description": "Đặc điểm nổi bật trong thiết kế micro Baiervies BS780S. Một bộ micro Baiervies BS780S chính hãng bao gồm 1 đầu thu và 2 tay micro. Đi kèm bao gồm rất nhiều phụ kiện tiêu chuẩn như ăng-ten, jack, dây nguồn,... Tất cả được sắp xếp ngăn nắp trong hộp. Đầu thu được thiết kế với các đường nét mềm mại. Sử dụng tone màu đen, bạc làm chủ đạo toát lên vẻ sang trọng, hiện đại của thiết kế. Hơn nữa đầu thu còn được trang bị bởi màn hình LCD hiển thị sắc nét các thông số, cùng các nút điều khiển cực nhạy, giúp người dùng dễ dàng điều chỉnh.",
+      "specifications": [],
+      "quantity": 1,
+      "type": "Micro",
+      "nation": "China",
+      "slug": "Micro-Baiervires-BS780S",
+      "status": true
     }
   ],
   "auto-power": [
-   
+    {
+      "id": "p30",
+      "image": "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/kuledy/auto-power/X-108(1).webp",
+      "thumbnail": [
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/kuledy/auto-power/X-108(1).webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/kuledy/auto-power/X-108(2).webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/kuledy/auto-power/X-108(3).webp",
+        "https://raw.githubusercontent.com/NguyenKeo/MasterAudio/main/img/kuledy/auto-power/X-108(4).webp"
+      ],
+      "brand": "Kuledy",
+      "name": "X108",
+      "price": 3490000,
+      "description": "Bộ điều khiển trình tự nguồn Kuledy X-108 là thiết bị thiết yếu trong bất kỳ hệ thống phát sóng TV, hệ thống máy tính, hệ thống điện khác và đặc biệt là hệ thống âm thanh. Kuledy X-108 đáp ứng nhu cầu của các dự án hiện nay, dễ vận hành và hàng tấn lợi thế vượt trội. Nó có màn hình LCD màu 2 inch hiển thị chính xác mức điện áp hiện tại. Và nó được thêm một công tắc để giữ cho 8 đường ra cắm điện không bị kiểm soát trong trường hợp khẩn cấp.",
+      "specifications": [],
+      "quantity": 1,
+      "type": "Auto power",
+      "nation": "China",
+      "slug": "Kuledy-X-108",
+      "status": true
+    }
   ],
   "test": [
     {
